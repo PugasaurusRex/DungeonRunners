@@ -1,0 +1,7139 @@
+fileFormatVersion: 2
+guid: 36198fc31a20a1a42895af37a5024da8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7780190520650127750
+    second: Mossy - TileSet_0
+  - first:
+      213: 1036836331014718058
+    second: Mossy - TileSet_1
+  - first:
+      213: -8013599348960855253
+    second: Mossy - TileSet_2
+  - first:
+      213: -5249700988863797070
+    second: Mossy - TileSet_3
+  - first:
+      213: 7789460486736427789
+    second: Mossy - TileSet_4
+  - first:
+      213: -2891453398403303555
+    second: Mossy - TileSet_5
+  - first:
+      213: -418929144885664223
+    second: Mossy - TileSet_6
+  - first:
+      213: -4372659424568917565
+    second: Mossy - TileSet_7
+  - first:
+      213: 4514297465504893602
+    second: Mossy - TileSet_8
+  - first:
+      213: -3487523447489209345
+    second: Mossy - TileSet_9
+  - first:
+      213: -5569898554837922632
+    second: Mossy - TileSet_10
+  - first:
+      213: -3685418513897516578
+    second: Mossy - TileSet_11
+  - first:
+      213: 6928388786959331256
+    second: Mossy - TileSet_12
+  - first:
+      213: -3594177204811327246
+    second: Mossy - TileSet_13
+  - first:
+      213: -4183846049574238538
+    second: Mossy - TileSet_14
+  - first:
+      213: -835656968662149559
+    second: Mossy - TileSet_15
+  - first:
+      213: -4102537442370791014
+    second: Mossy - TileSet_16
+  - first:
+      213: -5072850715659334932
+    second: Mossy - TileSet_17
+  - first:
+      213: -6255141689524456930
+    second: Mossy - TileSet_18
+  - first:
+      213: -6547473480025862038
+    second: Mossy - TileSet_19
+  - first:
+      213: -524877543031904614
+    second: Mossy - TileSet_20
+  - first:
+      213: -3872889320325841034
+    second: Mossy - TileSet_21
+  - first:
+      213: 4946514624398523938
+    second: Mossy - TileSet_22
+  - first:
+      213: -5036600939746470205
+    second: Mossy - TileSet_23
+  - first:
+      213: -1581547282002965455
+    second: Mossy - TileSet_24
+  - first:
+      213: 5140639665807568530
+    second: Mossy - TileSet_25
+  - first:
+      213: 6662521998811505123
+    second: Mossy - TileSet_26
+  - first:
+      213: -8345245913391173539
+    second: Mossy - TileSet_27
+  - first:
+      213: 2857388898317084124
+    second: Mossy - TileSet_28
+  - first:
+      213: -5459091127691064642
+    second: Mossy - TileSet_29
+  - first:
+      213: 6727615444850285541
+    second: Mossy - TileSet_30
+  - first:
+      213: 4037330239159434468
+    second: Mossy - TileSet_31
+  - first:
+      213: -5833995535470845175
+    second: Mossy - TileSet_32
+  - first:
+      213: 8867913802308176863
+    second: Mossy - TileSet_33
+  - first:
+      213: -7188324732607111159
+    second: Mossy - TileSet_34
+  - first:
+      213: 4398186595708621341
+    second: Mossy - TileSet_35
+  - first:
+      213: 6494960875842546982
+    second: Mossy - TileSet_36
+  - first:
+      213: 5371275752305055631
+    second: Mossy - TileSet_37
+  - first:
+      213: 5035188537419874837
+    second: Mossy - TileSet_38
+  - first:
+      213: -1851547395948528943
+    second: Mossy - TileSet_39
+  - first:
+      213: -3866491109049220897
+    second: Mossy - TileSet_40
+  - first:
+      213: 4502061714101203422
+    second: Mossy - TileSet_41
+  - first:
+      213: 206791664983288845
+    second: Mossy - TileSet_42
+  - first:
+      213: -9153382592485233709
+    second: Mossy - TileSet_43
+  - first:
+      213: 5098698998475253099
+    second: Mossy - TileSet_44
+  - first:
+      213: -3836277627540937040
+    second: Mossy - TileSet_45
+  - first:
+      213: -647901498481303547
+    second: Mossy - TileSet_46
+  - first:
+      213: 2298562702179888915
+    second: Mossy - TileSet_47
+  - first:
+      213: -1925861959747490014
+    second: Mossy - TileSet_48
+  - first:
+      213: -5358193005459730691
+    second: Mossy - TileSet_49
+  - first:
+      213: -124832681209933803
+    second: Mossy - TileSet_50
+  - first:
+      213: -4673458259943427248
+    second: Mossy - TileSet_51
+  - first:
+      213: -6984676847694573578
+    second: Mossy - TileSet_52
+  - first:
+      213: 3688309251896087670
+    second: Mossy - TileSet_53
+  - first:
+      213: -2047031628786699913
+    second: Mossy - TileSet_54
+  - first:
+      213: 1839027454018557205
+    second: Mossy - TileSet_55
+  - first:
+      213: -5884720894698716928
+    second: Mossy - TileSet_56
+  - first:
+      213: 1171528634471443860
+    second: Mossy - TileSet_57
+  - first:
+      213: 5206244164744926152
+    second: Mossy - TileSet_58
+  - first:
+      213: -233163760625490340
+    second: Mossy - TileSet_59
+  - first:
+      213: -63874138887403584
+    second: Mossy - TileSet_60
+  - first:
+      213: 230531072186648999
+    second: Mossy - TileSet_61
+  - first:
+      213: -2740480234942699479
+    second: Mossy - TileSet_62
+  - first:
+      213: -5823337201378472696
+    second: Mossy - TileSet_63
+  - first:
+      213: 4040432219859201818
+    second: Mossy - TileSet_64
+  - first:
+      213: 1311041382850163299
+    second: Mossy - TileSet_65
+  - first:
+      213: 3220195073399133084
+    second: Mossy - TileSet_66
+  - first:
+      213: -5284549819433565673
+    second: Mossy - TileSet_67
+  - first:
+      213: 5921850012529084376
+    second: Mossy - TileSet_68
+  - first:
+      213: -6603103699006551875
+    second: Mossy - TileSet_69
+  - first:
+      213: -1248709935171350574
+    second: Mossy - TileSet_70
+  - first:
+      213: -7058085877296579227
+    second: Mossy - TileSet_71
+  - first:
+      213: 5253826938314448011
+    second: Mossy - TileSet_72
+  - first:
+      213: -8917136374484336929
+    second: Mossy - TileSet_73
+  - first:
+      213: -5338292104586056333
+    second: Mossy - TileSet_74
+  - first:
+      213: -8391922367568348629
+    second: Mossy - TileSet_75
+  - first:
+      213: -1536518603436282966
+    second: Mossy - TileSet_76
+  - first:
+      213: 917769990048628438
+    second: Mossy - TileSet_77
+  - first:
+      213: -617871477257868453
+    second: Mossy - TileSet_78
+  - first:
+      213: -750085995273997893
+    second: Mossy - TileSet_79
+  - first:
+      213: 7427585501204547394
+    second: Mossy - TileSet_80
+  - first:
+      213: 6914590501526038205
+    second: Mossy - TileSet_81
+  - first:
+      213: -8900145399014295029
+    second: Mossy - TileSet_82
+  - first:
+      213: 6850328230023431962
+    second: Mossy - TileSet_83
+  - first:
+      213: 6129974853367315190
+    second: Mossy - TileSet_84
+  - first:
+      213: -6948486310339991666
+    second: Mossy - TileSet_85
+  - first:
+      213: -2678651982552569236
+    second: Mossy - TileSet_86
+  - first:
+      213: -1844949353354343267
+    second: Mossy - TileSet_87
+  - first:
+      213: -5391424759786082633
+    second: Mossy - TileSet_88
+  - first:
+      213: 3898841384072760231
+    second: Mossy - TileSet_89
+  - first:
+      213: -6617141178738022285
+    second: Mossy - TileSet_90
+  - first:
+      213: -7664189996398400117
+    second: Mossy - TileSet_91
+  - first:
+      213: -5621814635531743854
+    second: Mossy - TileSet_92
+  - first:
+      213: -6225402513131042044
+    second: Mossy - TileSet_93
+  - first:
+      213: 486843867405037476
+    second: Mossy - TileSet_94
+  - first:
+      213: -6629404073469526559
+    second: Mossy - TileSet_95
+  - first:
+      213: 6672830791440070551
+    second: Mossy - TileSet_96
+  - first:
+      213: 248168218319197498
+    second: Mossy - TileSet_97
+  - first:
+      213: 1084143681938895672
+    second: Mossy - TileSet_98
+  - first:
+      213: 8274171281857792169
+    second: Mossy - TileSet_99
+  - first:
+      213: -258999496769373539
+    second: Mossy - TileSet_100
+  - first:
+      213: 6437032136675649761
+    second: Mossy - TileSet_101
+  - first:
+      213: 6202675905247813000
+    second: Mossy - TileSet_102
+  - first:
+      213: -8851167703432493856
+    second: Mossy - TileSet_103
+  - first:
+      213: -6883553132619875466
+    second: Mossy - TileSet_104
+  - first:
+      213: -2975808218596981096
+    second: Mossy - TileSet_105
+  - first:
+      213: 5889911585332272267
+    second: Mossy - TileSet_106
+  - first:
+      213: -1039722331338821649
+    second: Mossy - TileSet_107
+  - first:
+      213: -3078805362258526079
+    second: Mossy - TileSet_108
+  - first:
+      213: -2964362544438944150
+    second: Mossy - TileSet_109
+  - first:
+      213: 5936144542526040951
+    second: Mossy - TileSet_110
+  - first:
+      213: 5855820685430209441
+    second: Mossy - TileSet_111
+  - first:
+      213: 8916845397135814372
+    second: Mossy - TileSet_112
+  - first:
+      213: -8202851595560059627
+    second: Mossy - TileSet_113
+  - first:
+      213: 6190732203332435212
+    second: Mossy - TileSet_114
+  - first:
+      213: 7146392509281402413
+    second: Mossy - TileSet_115
+  - first:
+      213: -4392971908147579404
+    second: Mossy - TileSet_116
+  - first:
+      213: -1918937914043814438
+    second: Mossy - TileSet_117
+  - first:
+      213: -8125044305487959083
+    second: Mossy - TileSet_118
+  - first:
+      213: -765836909931290642
+    second: Mossy - TileSet_119
+  - first:
+      213: -3057850790560678228
+    second: Mossy - TileSet_120
+  - first:
+      213: -731782641781283614
+    second: Mossy - TileSet_121
+  - first:
+      213: -115056809027446070
+    second: Mossy - TileSet_122
+  - first:
+      213: 4237342590488002881
+    second: Mossy - TileSet_123
+  - first:
+      213: -1237490829466607704
+    second: Mossy - TileSet_124
+  - first:
+      213: 3205874948664708257
+    second: Mossy - TileSet_125
+  - first:
+      213: 4586337346230246737
+    second: Mossy - TileSet_126
+  - first:
+      213: -2764982777057943698
+    second: Mossy - TileSet_127
+  - first:
+      213: -6516492546581298988
+    second: Mossy - TileSet_128
+  - first:
+      213: -3274567095125666627
+    second: Mossy - TileSet_129
+  - first:
+      213: 7728227947344959678
+    second: Mossy - TileSet_130
+  - first:
+      213: 839545302130611935
+    second: Mossy - TileSet_131
+  - first:
+      213: 1419396128352547754
+    second: Mossy - TileSet_132
+  - first:
+      213: -1639655765800888835
+    second: Mossy - TileSet_133
+  - first:
+      213: -3534388903079313334
+    second: Mossy - TileSet_134
+  - first:
+      213: -8526163869577343643
+    second: Mossy - TileSet_135
+  - first:
+      213: 7118028947250726188
+    second: Mossy - TileSet_136
+  - first:
+      213: 7700443092120665869
+    second: Mossy - TileSet_137
+  - first:
+      213: -3317852386839924695
+    second: Mossy - TileSet_138
+  - first:
+      213: -7648334915763279515
+    second: Mossy - TileSet_139
+  - first:
+      213: 1725699951115387870
+    second: Mossy - TileSet_140
+  - first:
+      213: 3877616221041997600
+    second: Mossy - TileSet_141
+  - first:
+      213: 4900159588732032
+    second: Mossy - TileSet_142
+  - first:
+      213: -5930434107266685668
+    second: Mossy - TileSet_143
+  - first:
+      213: -5148591704156018987
+    second: Mossy - TileSet_144
+  - first:
+      213: -2085401505774051249
+    second: Mossy - TileSet_145
+  - first:
+      213: 8706342325522118627
+    second: Mossy - TileSet_146
+  - first:
+      213: -896207173940123821
+    second: Mossy - TileSet_147
+  - first:
+      213: -1613953566887621129
+    second: Mossy - TileSet_148
+  - first:
+      213: 7019709989508786293
+    second: Mossy - TileSet_149
+  - first:
+      213: -6234091123048869551
+    second: Mossy - TileSet_150
+  - first:
+      213: 3334665117597764949
+    second: Mossy - TileSet_151
+  - first:
+      213: -5640293130313773570
+    second: Mossy - TileSet_152
+  - first:
+      213: -8235817887808082357
+    second: Mossy - TileSet_153
+  - first:
+      213: -5201265718400053428
+    second: Mossy - TileSet_154
+  - first:
+      213: -7694798254254669516
+    second: Mossy - TileSet_155
+  - first:
+      213: -6567478695033357531
+    second: Mossy - TileSet_156
+  - first:
+      213: 5540588915303355217
+    second: Mossy - TileSet_157
+  - first:
+      213: 6770512904391899058
+    second: Mossy - TileSet_158
+  - first:
+      213: -2690011479177583705
+    second: Mossy - TileSet_159
+  - first:
+      213: -8210511448347394260
+    second: Mossy - TileSet_160
+  - first:
+      213: 2292163686905173594
+    second: Mossy - TileSet_161
+  - first:
+      213: -6135232777646758803
+    second: Mossy - TileSet_162
+  - first:
+      213: -43070087139152638
+    second: Mossy - TileSet_163
+  - first:
+      213: -3178270579863564667
+    second: Mossy - TileSet_164
+  - first:
+      213: 6279829104603684806
+    second: Mossy - TileSet_165
+  - first:
+      213: -6453639423390788205
+    second: Mossy - TileSet_166
+  - first:
+      213: 7642464345034177232
+    second: Mossy - TileSet_167
+  - first:
+      213: -3781162019253897570
+    second: Mossy - TileSet_168
+  - first:
+      213: -6835348440949257083
+    second: Mossy - TileSet_169
+  - first:
+      213: -3160690555879337499
+    second: Mossy - TileSet_170
+  - first:
+      213: 1251149851144535558
+    second: Mossy - TileSet_171
+  - first:
+      213: 4667622102665847162
+    second: Mossy - TileSet_172
+  - first:
+      213: -6176488342343564550
+    second: Mossy - TileSet_173
+  - first:
+      213: 3873768123579719604
+    second: Mossy - TileSet_174
+  - first:
+      213: -2695162817228051096
+    second: Mossy - TileSet_175
+  - first:
+      213: -156359138324829847
+    second: Mossy - TileSet_176
+  - first:
+      213: 7611563958619811892
+    second: Mossy - TileSet_177
+  - first:
+      213: 1549288521654631383
+    second: Mossy - TileSet_178
+  - first:
+      213: -7163728183960246062
+    second: Mossy - TileSet_179
+  - first:
+      213: -5741192585080323343
+    second: Mossy - TileSet_180
+  - first:
+      213: -661719182136730020
+    second: Mossy - TileSet_181
+  - first:
+      213: 5104477037613858968
+    second: Mossy - TileSet_182
+  - first:
+      213: 7625133512604444513
+    second: Mossy - TileSet_183
+  - first:
+      213: 564690683041365474
+    second: Mossy - TileSet_184
+  - first:
+      213: 1451618936237453937
+    second: Mossy - TileSet_185
+  - first:
+      213: 1500216282127756258
+    second: Mossy - TileSet_186
+  - first:
+      213: -6232832638533387348
+    second: Mossy - TileSet_187
+  - first:
+      213: 4837297829761662308
+    second: Mossy - TileSet_188
+  - first:
+      213: -1798811945921708158
+    second: Mossy - TileSet_189
+  - first:
+      213: 9101435634837449911
+    second: Mossy - TileSet_190
+  - first:
+      213: 2484344238674535283
+    second: Mossy - TileSet_191
+  - first:
+      213: 7054391451673033888
+    second: Mossy - TileSet_192
+  - first:
+      213: 6308494425033729344
+    second: Mossy - TileSet_193
+  - first:
+      213: -2706822064268600988
+    second: Mossy - TileSet_194
+  - first:
+      213: 3892383923011534424
+    second: Mossy - TileSet_195
+  - first:
+      213: 2602790416545542440
+    second: Mossy - TileSet_196
+  - first:
+      213: -3318704203860672047
+    second: Mossy - TileSet_197
+  - first:
+      213: -3276883133275314510
+    second: Mossy - TileSet_198
+  - first:
+      213: -6520505403310975984
+    second: Mossy - TileSet_199
+  - first:
+      213: -6903461886260665732
+    second: Mossy - TileSet_200
+  - first:
+      213: 1421444234317845268
+    second: Mossy - TileSet_201
+  - first:
+      213: -6575666197020414602
+    second: Mossy - TileSet_202
+  - first:
+      213: -5509001776337161292
+    second: Mossy - TileSet_203
+  - first:
+      213: -4193692824922731597
+    second: Mossy - TileSet_204
+  - first:
+      213: 3420627814067774371
+    second: Mossy - TileSet_205
+  - first:
+      213: 3397353166553061409
+    second: Mossy - TileSet_206
+  - first:
+      213: 9126368956916311288
+    second: Mossy - TileSet_207
+  - first:
+      213: -271380349743445475
+    second: Mossy - TileSet_208
+  - first:
+      213: -8520449742998502313
+    second: Mossy - TileSet_209
+  - first:
+      213: -971421787594868330
+    second: Mossy - TileSet_210
+  - first:
+      213: 1969251983622304762
+    second: Mossy - TileSet_211
+  - first:
+      213: 7588873136652071606
+    second: Mossy - TileSet_212
+  - first:
+      213: 6790504614894236088
+    second: Mossy - TileSet_213
+  - first:
+      213: -6794787565103880925
+    second: Mossy - TileSet_214
+  - first:
+      213: 6812485461726600040
+    second: Mossy - TileSet_215
+  - first:
+      213: -6074466393378221424
+    second: Mossy - TileSet_216
+  - first:
+      213: -1528343967333794235
+    second: Mossy - TileSet_217
+  - first:
+      213: 400039483113653691
+    second: Mossy - TileSet_218
+  - first:
+      213: -547639236916663016
+    second: Mossy - TileSet_219
+  - first:
+      213: -7085243606548789658
+    second: Mossy - TileSet_220
+  - first:
+      213: 2591875951704297334
+    second: Mossy - TileSet_221
+  - first:
+      213: 1652840891714175945
+    second: Mossy - TileSet_222
+  - first:
+      213: -7791083747595772701
+    second: Mossy - TileSet_223
+  - first:
+      213: -3073470928824326218
+    second: Mossy - TileSet_224
+  - first:
+      213: 8113727659900463048
+    second: Mossy - TileSet_225
+  - first:
+      213: 4975013564107691659
+    second: Mossy - TileSet_226
+  - first:
+      213: -7754733508535916584
+    second: Mossy - TileSet_227
+  - first:
+      213: -5544818724670527293
+    second: Mossy - TileSet_228
+  - first:
+      213: 3129555698400921807
+    second: Mossy - TileSet_229
+  - first:
+      213: 6226410836886655681
+    second: Mossy - TileSet_230
+  - first:
+      213: 813219675934095344
+    second: Mossy - TileSet_231
+  - first:
+      213: -2592411333822261265
+    second: Mossy - TileSet_232
+  - first:
+      213: -1595277576068103064
+    second: Mossy - TileSet_233
+  - first:
+      213: -5224218723723905281
+    second: Mossy - TileSet_234
+  - first:
+      213: 6952209540730714794
+    second: Mossy - TileSet_235
+  - first:
+      213: 8469664616456573084
+    second: Mossy - TileSet_236
+  - first:
+      213: 1393763597392674096
+    second: Mossy - TileSet_237
+  - first:
+      213: 5518864262215114702
+    second: Mossy - TileSet_238
+  - first:
+      213: -954152055936097951
+    second: Mossy - TileSet_239
+  - first:
+      213: -7738750750820490035
+    second: Mossy - TileSet_240
+  - first:
+      213: 889100801470881531
+    second: Mossy - TileSet_241
+  - first:
+      213: -1966061873306515172
+    second: Mossy - TileSet_242
+  - first:
+      213: -461670874339310626
+    second: Mossy - TileSet_243
+  - first:
+      213: -3819858943733430680
+    second: Mossy - TileSet_244
+  - first:
+      213: -2711700664537986680
+    second: Mossy - TileSet_245
+  - first:
+      213: 7807707593010964712
+    second: Mossy - TileSet_246
+  - first:
+      213: -6484717341653171508
+    second: Mossy - TileSet_247
+  - first:
+      213: -1551142042200320917
+    second: Mossy - TileSet_248
+  - first:
+      213: 913272368278384514
+    second: Mossy - TileSet_249
+  - first:
+      213: 5193132085472955646
+    second: Mossy - TileSet_250
+  - first:
+      213: -4953289627398940281
+    second: Mossy - TileSet_251
+  - first:
+      213: -9091086529830092271
+    second: Mossy - TileSet_252
+  - first:
+      213: -8578023025173999454
+    second: Mossy - TileSet_253
+  - first:
+      213: -1312363157903263741
+    second: Mossy - TileSet_254
+  - first:
+      213: 3987288633199976762
+    second: Mossy - TileSet_255
+  - first:
+      213: -3399469845377063315
+    second: Mossy - TileSet_256
+  - first:
+      213: 4754787290859709819
+    second: Mossy - TileSet_257
+  - first:
+      213: 4352724890110711640
+    second: Mossy - TileSet_258
+  - first:
+      213: 5581811803132824046
+    second: Mossy - TileSet_259
+  - first:
+      213: -91176562774384925
+    second: Mossy - TileSet_260
+  - first:
+      213: 6835837440133565051
+    second: Mossy - TileSet_261
+  - first:
+      213: 1381329523572746520
+    second: Mossy - TileSet_262
+  - first:
+      213: 446302342523674896
+    second: Mossy - TileSet_263
+  - first:
+      213: 7026134131273247266
+    second: Mossy - TileSet_264
+  - first:
+      213: 8464908671327284085
+    second: Mossy - TileSet_265
+  - first:
+      213: 5894274093607363483
+    second: Mossy - TileSet_266
+  - first:
+      213: -1716805852544576442
+    second: Mossy - TileSet_267
+  - first:
+      213: 5750773387215695753
+    second: Mossy - TileSet_268
+  - first:
+      213: 43466666847672207
+    second: Mossy - TileSet_269
+  - first:
+      213: -3786877625937223035
+    second: Mossy - TileSet_270
+  - first:
+      213: 1525885988266576056
+    second: Mossy - TileSet_271
+  - first:
+      213: -4752839585875327161
+    second: Mossy - TileSet_272
+  - first:
+      213: -2867952276660629543
+    second: Mossy - TileSet_273
+  - first:
+      213: 4854952996304982838
+    second: Mossy - TileSet_274
+  - first:
+      213: -3893987262747096327
+    second: Mossy - TileSet_275
+  - first:
+      213: 2130404224686027294
+    second: Mossy - TileSet_276
+  - first:
+      213: 3236268885245393734
+    second: Mossy - TileSet_277
+  - first:
+      213: -3571743155405683336
+    second: Mossy - TileSet_278
+  - first:
+      213: 5260735672126856084
+    second: Mossy - TileSet_279
+  - first:
+      213: -3371957345203273274
+    second: Mossy - TileSet_280
+  - first:
+      213: 1731208107909331968
+    second: Mossy - TileSet_281
+  - first:
+      213: -9205177697149753820
+    second: Mossy - TileSet_282
+  - first:
+      213: 6644917186165521633
+    second: Mossy - TileSet_283
+  - first:
+      213: 2835344155700700870
+    second: Mossy - TileSet_284
+  - first:
+      213: 5961417215558553808
+    second: Mossy - TileSet_285
+  - first:
+      213: 6125421405028733116
+    second: Mossy - TileSet_286
+  - first:
+      213: 2015631188137939062
+    second: Mossy - TileSet_287
+  - first:
+      213: -6003324884792199734
+    second: Mossy - TileSet_288
+  - first:
+      213: 5140976627231329566
+    second: Mossy - TileSet_289
+  - first:
+      213: -2915722645431345747
+    second: Mossy - TileSet_290
+  - first:
+      213: 5719363168879590548
+    second: Mossy - TileSet_291
+  - first:
+      213: 1558157661704636400
+    second: Mossy - TileSet_292
+  - first:
+      213: -7893421283510724666
+    second: Mossy - TileSet_293
+  - first:
+      213: 6857649982836254803
+    second: Mossy - TileSet_294
+  - first:
+      213: -6516214426483114661
+    second: Mossy - TileSet_295
+  - first:
+      213: -6380483301308391405
+    second: Mossy - TileSet_296
+  - first:
+      213: -5844590692051855315
+    second: Mossy - TileSet_297
+  - first:
+      213: -841767539024012555
+    second: Mossy - TileSet_298
+  - first:
+      213: -6351176485249550714
+    second: Mossy - TileSet_299
+  - first:
+      213: 3949902627043340346
+    second: Mossy - TileSet_300
+  - first:
+      213: -1848342872071390274
+    second: Mossy - TileSet_301
+  - first:
+      213: -809784717093602825
+    second: Mossy - TileSet_302
+  - first:
+      213: -1196403224241413523
+    second: Mossy - TileSet_303
+  - first:
+      213: 2797500327678626376
+    second: Mossy - TileSet_304
+  - first:
+      213: 2867691154006531279
+    second: Mossy - TileSet_305
+  - first:
+      213: -4651834264693291056
+    second: Mossy - TileSet_306
+  - first:
+      213: -357930862560238844
+    second: Mossy - TileSet_307
+  - first:
+      213: 5662574527483610198
+    second: Mossy - TileSet_308
+  - first:
+      213: -1948508005704020083
+    second: Mossy - TileSet_309
+  - first:
+      213: 290512919857246597
+    second: Mossy - TileSet_310
+  - first:
+      213: 3955333644733357496
+    second: Mossy - TileSet_311
+  - first:
+      213: -488380801647025513
+    second: Mossy - TileSet_312
+  - first:
+      213: -1921000236123915294
+    second: Mossy - TileSet_313
+  - first:
+      213: -6644381377068676309
+    second: Mossy - TileSet_314
+  - first:
+      213: -8291711466708587925
+    second: Mossy - TileSet_315
+  - first:
+      213: 4714352184219607862
+    second: Mossy - TileSet_316
+  - first:
+      213: 6291853805069210365
+    second: Mossy - TileSet_317
+  - first:
+      213: 5303084389548973558
+    second: Mossy - TileSet_318
+  - first:
+      213: 5016088149043112227
+    second: Mossy - TileSet_319
+  - first:
+      213: -8589893179839413146
+    second: Mossy - TileSet_320
+  - first:
+      213: -9149689406821825580
+    second: Mossy - TileSet_321
+  - first:
+      213: -5541305264158326583
+    second: Mossy - TileSet_322
+  - first:
+      213: 944559711260349150
+    second: Mossy - TileSet_323
+  - first:
+      213: -189349308744345995
+    second: Mossy - TileSet_324
+  - first:
+      213: -6832005985237111968
+    second: Mossy - TileSet_325
+  - first:
+      213: 5273839752089359679
+    second: Mossy - TileSet_326
+  - first:
+      213: 8452159692978817810
+    second: Mossy - TileSet_327
+  - first:
+      213: -3045711293262587453
+    second: Mossy - TileSet_328
+  - first:
+      213: -3736874766688698099
+    second: Mossy - TileSet_329
+  - first:
+      213: 1247071038579038339
+    second: Mossy - TileSet_330
+  - first:
+      213: -4092969996865656310
+    second: Mossy - TileSet_331
+  - first:
+      213: 1973981339985363369
+    second: Mossy - TileSet_332
+  - first:
+      213: 4842160730107742117
+    second: Mossy - TileSet_333
+  - first:
+      213: 623640452932422812
+    second: Mossy - TileSet_334
+  - first:
+      213: 4456194878069460113
+    second: Mossy - TileSet_335
+  - first:
+      213: -3906992629214060723
+    second: Mossy - TileSet_336
+  - first:
+      213: -5748777741277069865
+    second: Mossy - TileSet_337
+  - first:
+      213: -5670554928232916218
+    second: Mossy - TileSet_338
+  - first:
+      213: 8069531427493297923
+    second: Mossy - TileSet_339
+  - first:
+      213: 8269385416824295663
+    second: Mossy - TileSet_340
+  - first:
+      213: -124627202674724493
+    second: Mossy - TileSet_341
+  - first:
+      213: -4879662980306806876
+    second: Mossy - TileSet_342
+  - first:
+      213: -7824102985566546183
+    second: Mossy - TileSet_343
+  - first:
+      213: 19691350274233409
+    second: Mossy - TileSet_344
+  - first:
+      213: 5211743915063394271
+    second: Mossy - TileSet_345
+  - first:
+      213: 7460877841151340244
+    second: Mossy - TileSet_346
+  - first:
+      213: -4602609308108140474
+    second: Mossy - TileSet_347
+  - first:
+      213: 250134857052812175
+    second: Mossy - TileSet_348
+  - first:
+      213: 4122236451667723326
+    second: Mossy - TileSet_349
+  - first:
+      213: 7482528016452396099
+    second: Mossy - TileSet_350
+  - first:
+      213: 7098345166802153464
+    second: Mossy - TileSet_351
+  - first:
+      213: 5445165948959780447
+    second: Mossy - TileSet_352
+  - first:
+      213: 9087113673632028041
+    second: Mossy - TileSet_353
+  - first:
+      213: 8398052933511497341
+    second: Mossy - TileSet_354
+  - first:
+      213: -5866668915276736114
+    second: Mossy - TileSet_355
+  - first:
+      213: -183150613184396218
+    second: Mossy - TileSet_356
+  - first:
+      213: -8833779378062212726
+    second: Mossy - TileSet_357
+  - first:
+      213: -2275356901754281625
+    second: Mossy - TileSet_358
+  - first:
+      213: -8802928299307823282
+    second: Mossy - TileSet_359
+  - first:
+      213: 7858566527973683316
+    second: Mossy - TileSet_360
+  - first:
+      213: -9066747937074053269
+    second: Mossy - TileSet_361
+  - first:
+      213: -2005531012109253994
+    second: Mossy - TileSet_362
+  - first:
+      213: -95776369992843820
+    second: Mossy - TileSet_363
+  - first:
+      213: -8570256818866603749
+    second: Mossy - TileSet_364
+  - first:
+      213: 958158626890052029
+    second: Mossy - TileSet_365
+  - first:
+      213: -2637370164248136078
+    second: Mossy - TileSet_366
+  - first:
+      213: 6642624899572335011
+    second: Mossy - TileSet_367
+  - first:
+      213: -2324010157498283534
+    second: Mossy - TileSet_368
+  - first:
+      213: -6571492959873958595
+    second: Mossy - TileSet_369
+  - first:
+      213: 2903645230521023041
+    second: Mossy - TileSet_370
+  - first:
+      213: -5720929370489190088
+    second: Mossy - TileSet_371
+  - first:
+      213: -4535487318652979975
+    second: Mossy - TileSet_372
+  - first:
+      213: 8429687276545797058
+    second: Mossy - TileSet_373
+  - first:
+      213: -8780590612158936298
+    second: Mossy - TileSet_374
+  - first:
+      213: -2152612379425170946
+    second: Mossy - TileSet_375
+  - first:
+      213: 5266368323011249121
+    second: Mossy - TileSet_376
+  - first:
+      213: -2809590553054905963
+    second: Mossy - TileSet_377
+  - first:
+      213: 7211295211957020089
+    second: Mossy - TileSet_378
+  - first:
+      213: 5184995299547581951
+    second: Mossy - TileSet_379
+  - first:
+      213: 8241989181448691353
+    second: Mossy - TileSet_380
+  - first:
+      213: -3043414422472069129
+    second: Mossy - TileSet_381
+  - first:
+      213: 1374424834211764531
+    second: Mossy - TileSet_382
+  - first:
+      213: 2516381217129559448
+    second: Mossy - TileSet_383
+  - first:
+      213: -4727798828659279415
+    second: Mossy - TileSet_384
+  - first:
+      213: 3567051210369009487
+    second: Mossy - TileSet_385
+  - first:
+      213: -6573204920687505944
+    second: Mossy - TileSet_386
+  - first:
+      213: -5635221904420202509
+    second: Mossy - TileSet_387
+  - first:
+      213: -2238391764889048395
+    second: Mossy - TileSet_388
+  - first:
+      213: -3651204067900541475
+    second: Mossy - TileSet_389
+  - first:
+      213: 6957700427574085289
+    second: Mossy - TileSet_390
+  - first:
+      213: 6417737749143251854
+    second: Mossy - TileSet_391
+  - first:
+      213: 8981724835738800433
+    second: Mossy - TileSet_392
+  - first:
+      213: -8632167016634256204
+    second: Mossy - TileSet_393
+  - first:
+      213: -6277519846929488032
+    second: Mossy - TileSet_394
+  - first:
+      213: -3222121866206737432
+    second: Mossy - TileSet_395
+  - first:
+      213: -4365106460717004334
+    second: Mossy - TileSet_396
+  - first:
+      213: 8895386191435074678
+    second: Mossy - TileSet_397
+  - first:
+      213: -1313386594213721745
+    second: Mossy - TileSet_398
+  - first:
+      213: 4718326230085914580
+    second: Mossy - TileSet_399
+  - first:
+      213: -7099628664213407061
+    second: Mossy - TileSet_400
+  - first:
+      213: -1339872336730956369
+    second: Mossy - TileSet_401
+  - first:
+      213: -1516584013372669177
+    second: Mossy - TileSet_402
+  - first:
+      213: -6478766916164116375
+    second: Mossy - TileSet_403
+  - first:
+      213: 8922596390979359347
+    second: Mossy - TileSet_404
+  - first:
+      213: 4473009561286776820
+    second: Mossy - TileSet_405
+  - first:
+      213: -2744646812729866987
+    second: Mossy - TileSet_406
+  - first:
+      213: -6684483578455634000
+    second: Mossy - TileSet_407
+  - first:
+      213: -3330525409722340283
+    second: Mossy - TileSet_408
+  - first:
+      213: 8705733605465253015
+    second: Mossy - TileSet_409
+  - first:
+      213: 6602263550166091806
+    second: Mossy - TileSet_410
+  - first:
+      213: 5044377191270269741
+    second: Mossy - TileSet_411
+  - first:
+      213: -5675411866967502347
+    second: Mossy - TileSet_412
+  - first:
+      213: 5417873717109066166
+    second: Mossy - TileSet_413
+  - first:
+      213: -9195847565614695149
+    second: Mossy - TileSet_414
+  - first:
+      213: 4683081948665317426
+    second: Mossy - TileSet_415
+  - first:
+      213: -6832211076258940223
+    second: Mossy - TileSet_416
+  - first:
+      213: -4634351096036672393
+    second: Mossy - TileSet_417
+  - first:
+      213: -7164178098123563544
+    second: Mossy - TileSet_418
+  - first:
+      213: 8960768520643731754
+    second: Mossy - TileSet_419
+  - first:
+      213: 9184343247388421246
+    second: Mossy - TileSet_420
+  - first:
+      213: 383542235309336144
+    second: Mossy - TileSet_421
+  - first:
+      213: 6823477373139639793
+    second: Mossy - TileSet_422
+  - first:
+      213: -1859222400583953321
+    second: Mossy - TileSet_423
+  - first:
+      213: 577971737126031324
+    second: Mossy - TileSet_424
+  - first:
+      213: -5796589468852526058
+    second: Mossy - TileSet_425
+  - first:
+      213: -8011638509686524935
+    second: Mossy - TileSet_426
+  - first:
+      213: 7582431351375873514
+    second: Mossy - TileSet_427
+  - first:
+      213: -7630696045912308789
+    second: Mossy - TileSet_428
+  - first:
+      213: 4591035752899961316
+    second: Mossy - TileSet_429
+  - first:
+      213: 3861587319355272048
+    second: Mossy - TileSet_430
+  - first:
+      213: -358866054228171612
+    second: Mossy - TileSet_431
+  - first:
+      213: -9092868005967062800
+    second: Mossy - TileSet_432
+  - first:
+      213: 7835539334295468137
+    second: Mossy - TileSet_433
+  - first:
+      213: 1482434439050754650
+    second: Mossy - TileSet_434
+  - first:
+      213: -7156673183124750557
+    second: Mossy - TileSet_435
+  - first:
+      213: -3867817908052572654
+    second: Mossy - TileSet_436
+  - first:
+      213: -1918153030234763175
+    second: Mossy - TileSet_437
+  - first:
+      213: 428479444890582258
+    second: Mossy - TileSet_438
+  - first:
+      213: -6172729658814387429
+    second: Mossy - TileSet_439
+  - first:
+      213: -9047585301010128305
+    second: Mossy - TileSet_440
+  - first:
+      213: -9099166817758569665
+    second: Mossy - TileSet_441
+  - first:
+      213: 4307063359529115444
+    second: Mossy - TileSet_442
+  - first:
+      213: 2402613690116839140
+    second: Mossy - TileSet_443
+  - first:
+      213: -3007603398663215553
+    second: Mossy - TileSet_444
+  - first:
+      213: -6978059566796854245
+    second: Mossy - TileSet_445
+  - first:
+      213: 2608060005351087573
+    second: Mossy - TileSet_446
+  - first:
+      213: 7620985553801048816
+    second: Mossy - TileSet_447
+  - first:
+      213: 72156002827151050
+    second: Mossy - TileSet_448
+  - first:
+      213: -7065885803227400271
+    second: Mossy - TileSet_449
+  - first:
+      213: -7564776834862307129
+    second: Mossy - TileSet_450
+  - first:
+      213: -7401500704003061400
+    second: Mossy - TileSet_451
+  - first:
+      213: 7985479898239968174
+    second: Mossy - TileSet_452
+  - first:
+      213: 3882357079962340
+    second: Mossy - TileSet_453
+  - first:
+      213: 5642785631403823067
+    second: Mossy - TileSet_454
+  - first:
+      213: 4722521136628516682
+    second: Mossy - TileSet_455
+  - first:
+      213: 8609226123586082262
+    second: Mossy - TileSet_456
+  - first:
+      213: 6353065136880484314
+    second: Mossy - TileSet_457
+  - first:
+      213: -7396665310722567818
+    second: Mossy - TileSet_458
+  - first:
+      213: -6694226522802889817
+    second: Mossy - TileSet_459
+  - first:
+      213: -7022414784968039046
+    second: Mossy - TileSet_460
+  - first:
+      213: -3580910968603444175
+    second: Mossy - TileSet_461
+  - first:
+      213: -6625606466798007384
+    second: Mossy - TileSet_462
+  - first:
+      213: 8605935330419183891
+    second: Mossy - TileSet_463
+  - first:
+      213: 2520602604995196211
+    second: Mossy - TileSet_464
+  - first:
+      213: -3531622041047305771
+    second: Mossy - TileSet_465
+  - first:
+      213: 5094781866743671823
+    second: Mossy - TileSet_466
+  - first:
+      213: -4703143807704691140
+    second: Mossy - TileSet_467
+  - first:
+      213: 4201113089354909289
+    second: Mossy - TileSet_468
+  - first:
+      213: 4229994820731344755
+    second: Mossy - TileSet_469
+  - first:
+      213: 4794580954528387326
+    second: Mossy - TileSet_470
+  - first:
+      213: 3408105505380491313
+    second: Mossy - TileSet_471
+  - first:
+      213: -766173998813277479
+    second: Mossy - TileSet_472
+  - first:
+      213: 988333586060860700
+    second: Mossy - TileSet_473
+  - first:
+      213: -6866377882284444985
+    second: Mossy - TileSet_474
+  - first:
+      213: -140957137077676302
+    second: Mossy - TileSet_475
+  - first:
+      213: 4769287239453615240
+    second: Mossy - TileSet_476
+  - first:
+      213: -6542300044768889118
+    second: Mossy - TileSet_477
+  - first:
+      213: 286837594401199817
+    second: Mossy - TileSet_478
+  - first:
+      213: -8619463830649160789
+    second: Mossy - TileSet_479
+  - first:
+      213: 2206696085195824128
+    second: Mossy - TileSet_480
+  - first:
+      213: 2570446344742468322
+    second: Mossy - TileSet_481
+  - first:
+      213: -3171518812079513951
+    second: Mossy - TileSet_482
+  - first:
+      213: -5961734146928436426
+    second: Mossy - TileSet_483
+  - first:
+      213: 2996891230661740275
+    second: Mossy - TileSet_484
+  - first:
+      213: -4260925747076803073
+    second: Mossy - TileSet_485
+  - first:
+      213: 8201122419904267133
+    second: Mossy - TileSet_486
+  - first:
+      213: 1206699739487665360
+    second: Mossy - TileSet_487
+  - first:
+      213: 5696843495252971756
+    second: Mossy - TileSet_488
+  - first:
+      213: 6604999408962791574
+    second: Mossy - TileSet_489
+  - first:
+      213: 3007276048674179373
+    second: Mossy - TileSet_490
+  - first:
+      213: 3117699628056799214
+    second: Mossy - TileSet_491
+  - first:
+      213: 5235285731938699966
+    second: Mossy - TileSet_492
+  - first:
+      213: -4650537787225745282
+    second: Mossy - TileSet_493
+  - first:
+      213: -2917154084191094994
+    second: Mossy - TileSet_494
+  - first:
+      213: -284974479706808830
+    second: Mossy - TileSet_495
+  - first:
+      213: 3512091637793330044
+    second: Mossy - TileSet_496
+  - first:
+      213: -6746225787361796951
+    second: Mossy - TileSet_497
+  - first:
+      213: -147940939262605503
+    second: Mossy - TileSet_498
+  - first:
+      213: 1243172979353598873
+    second: Mossy - TileSet_499
+  - first:
+      213: 782406195481320092
+    second: Mossy - TileSet_500
+  - first:
+      213: 877300240258997303
+    second: Mossy - TileSet_501
+  - first:
+      213: -6328609210397014822
+    second: Mossy - TileSet_502
+  - first:
+      213: 4260574344059020978
+    second: Mossy - TileSet_503
+  - first:
+      213: 4596572907520379419
+    second: Mossy - TileSet_504
+  - first:
+      213: 1244851820187018517
+    second: Mossy - TileSet_505
+  - first:
+      213: 6118626369641074848
+    second: Mossy - TileSet_506
+  - first:
+      213: 6392559574164969674
+    second: Mossy - TileSet_507
+  - first:
+      213: -7894335420659323952
+    second: Mossy - TileSet_508
+  - first:
+      213: -2608349757542123759
+    second: Mossy - TileSet_509
+  - first:
+      213: -8319131476202988073
+    second: Mossy - TileSet_510
+  - first:
+      213: 1291720197782527497
+    second: Mossy - TileSet_511
+  - first:
+      213: 7765570612018439197
+    second: Mossy - TileSet_512
+  - first:
+      213: 5396822089363659397
+    second: Mossy - TileSet_513
+  - first:
+      213: 8832561770863261918
+    second: Mossy - TileSet_514
+  - first:
+      213: 5040965969191838402
+    second: Mossy - TileSet_515
+  - first:
+      213: 7346010291848151587
+    second: Mossy - TileSet_516
+  - first:
+      213: 2791930427922798218
+    second: Mossy - TileSet_517
+  - first:
+      213: -8400255817558796621
+    second: Mossy - TileSet_518
+  - first:
+      213: -4884973048719060303
+    second: Mossy - TileSet_519
+  - first:
+      213: -5832494504310958376
+    second: Mossy - TileSet_520
+  - first:
+      213: -4644438247492950840
+    second: Mossy - TileSet_521
+  - first:
+      213: -6724567194106734112
+    second: Mossy - TileSet_522
+  - first:
+      213: -6266447012878620680
+    second: Mossy - TileSet_523
+  - first:
+      213: -6051683483020363033
+    second: Mossy - TileSet_524
+  - first:
+      213: 944942072736822996
+    second: Mossy - TileSet_525
+  - first:
+      213: 5232090242953502535
+    second: Mossy - TileSet_526
+  - first:
+      213: -6425937586625458849
+    second: Mossy - TileSet_527
+  - first:
+      213: 1829487959742367118
+    second: Mossy - TileSet_528
+  - first:
+      213: -4864049825790870503
+    second: Mossy - TileSet_529
+  - first:
+      213: -6052883015497207032
+    second: Mossy - TileSet_530
+  - first:
+      213: -262358249940566181
+    second: Mossy - TileSet_531
+  - first:
+      213: -5199708264704071132
+    second: Mossy - TileSet_532
+  - first:
+      213: -295255305986658066
+    second: Mossy - TileSet_533
+  - first:
+      213: -131840943121309469
+    second: Mossy - TileSet_534
+  - first:
+      213: -7412451559618006102
+    second: Mossy - TileSet_535
+  - first:
+      213: 8862435252661333711
+    second: Mossy - TileSet_536
+  - first:
+      213: -5379911775626274362
+    second: Mossy - TileSet_537
+  - first:
+      213: 7710741538765783246
+    second: Mossy - TileSet_538
+  - first:
+      213: 5737826365425039648
+    second: Mossy - TileSet_539
+  - first:
+      213: -4569771718306860410
+    second: Mossy - TileSet_540
+  - first:
+      213: -1191280752244397693
+    second: Mossy - TileSet_541
+  - first:
+      213: -7586386185445838763
+    second: Mossy - TileSet_542
+  - first:
+      213: 2828869873066477261
+    second: Mossy - TileSet_543
+  - first:
+      213: -1661978229077691910
+    second: Mossy - TileSet_544
+  - first:
+      213: -5453377564601067028
+    second: Mossy - TileSet_545
+  - first:
+      213: 1915192805219815114
+    second: Mossy - TileSet_546
+  - first:
+      213: 236199288297576475
+    second: Mossy - TileSet_547
+  - first:
+      213: 5993688092238207714
+    second: Mossy - TileSet_548
+  - first:
+      213: -1326632115239546988
+    second: Mossy - TileSet_549
+  - first:
+      213: -4348598639914596619
+    second: Mossy - TileSet_550
+  - first:
+      213: -1502138369385459545
+    second: Mossy - TileSet_551
+  - first:
+      213: -1074151810511089625
+    second: Mossy - TileSet_552
+  - first:
+      213: -132686636616468898
+    second: Mossy - TileSet_553
+  - first:
+      213: 308078754591153433
+    second: Mossy - TileSet_554
+  - first:
+      213: -3985150129292771025
+    second: Mossy - TileSet_555
+  - first:
+      213: -1331976870757175934
+    second: Mossy - TileSet_556
+  - first:
+      213: 2899873074801015512
+    second: Mossy - TileSet_557
+  - first:
+      213: 6482496673471126610
+    second: Mossy - TileSet_558
+  - first:
+      213: 1330623972269629796
+    second: Mossy - TileSet_559
+  - first:
+      213: 5410712827227689963
+    second: Mossy - TileSet_560
+  - first:
+      213: -4243723114365786636
+    second: Mossy - TileSet_561
+  - first:
+      213: 1426689178236524410
+    second: Mossy - TileSet_562
+  - first:
+      213: -3053189016284186405
+    second: Mossy - TileSet_563
+  - first:
+      213: -2475892132382121564
+    second: Mossy - TileSet_564
+  - first:
+      213: 7740603952891007297
+    second: Mossy - TileSet_565
+  - first:
+      213: 1031408717497695372
+    second: Mossy - TileSet_566
+  - first:
+      213: 6434689520357217827
+    second: Mossy - TileSet_567
+  - first:
+      213: 1372156172897158237
+    second: Mossy - TileSet_568
+  - first:
+      213: 3084714888786384266
+    second: Mossy - TileSet_569
+  - first:
+      213: 3314828393819572603
+    second: Mossy - TileSet_570
+  - first:
+      213: -7104738148228732532
+    second: Mossy - TileSet_571
+  - first:
+      213: 4061258457599440936
+    second: Mossy - TileSet_572
+  - first:
+      213: 8784074654329313962
+    second: Mossy - TileSet_573
+  - first:
+      213: -5224703537369929744
+    second: Mossy - TileSet_574
+  - first:
+      213: -4604914171630713986
+    second: Mossy - TileSet_575
+  - first:
+      213: 5726131073204597400
+    second: Mossy - TileSet_576
+  - first:
+      213: 326969239227545050
+    second: Mossy - TileSet_577
+  - first:
+      213: 165295593536650970
+    second: Mossy - TileSet_578
+  - first:
+      213: -654369548895899297
+    second: Mossy - TileSet_579
+  - first:
+      213: -2284354239584688463
+    second: Mossy - TileSet_580
+  - first:
+      213: 788559909749579529
+    second: Mossy - TileSet_581
+  - first:
+      213: -1848820024129685642
+    second: Mossy - TileSet_582
+  - first:
+      213: 3291027924924517476
+    second: Mossy - TileSet_583
+  - first:
+      213: -7092049868053020342
+    second: Mossy - TileSet_584
+  - first:
+      213: 3102683139355713880
+    second: Mossy - TileSet_585
+  - first:
+      213: -1396721153296403938
+    second: Mossy - TileSet_586
+  - first:
+      213: 7309440360522118241
+    second: Mossy - TileSet_587
+  - first:
+      213: -4859588050548951923
+    second: Mossy - TileSet_588
+  - first:
+      213: 8544589200501109677
+    second: Mossy - TileSet_589
+  - first:
+      213: 7599665295109071874
+    second: Mossy - TileSet_590
+  - first:
+      213: 3720659692506904479
+    second: Mossy - TileSet_591
+  - first:
+      213: -1664087138858078229
+    second: Mossy - TileSet_592
+  - first:
+      213: -7081639853307605101
+    second: Mossy - TileSet_593
+  - first:
+      213: -2497341318179219799
+    second: Mossy - TileSet_594
+  - first:
+      213: -4789689529065645776
+    second: Mossy - TileSet_595
+  - first:
+      213: 4809887367461049743
+    second: Mossy - TileSet_596
+  - first:
+      213: -5781066216230410497
+    second: Mossy - TileSet_597
+  - first:
+      213: -1373627543352097285
+    second: Mossy - TileSet_598
+  - first:
+      213: -3225071415261820840
+    second: Mossy - TileSet_599
+  - first:
+      213: -1594493981332728824
+    second: Mossy - TileSet_600
+  - first:
+      213: 2329487273509187101
+    second: Mossy - TileSet_601
+  - first:
+      213: 7184254929384335154
+    second: Mossy - TileSet_602
+  - first:
+      213: 5611502470070115736
+    second: Mossy - TileSet_603
+  - first:
+      213: -4358009419939751370
+    second: Mossy - TileSet_604
+  - first:
+      213: -1328120387475213232
+    second: Mossy - TileSet_605
+  - first:
+      213: 6424341746794982568
+    second: Mossy - TileSet_606
+  - first:
+      213: 8180465892887619952
+    second: Mossy - TileSet_607
+  - first:
+      213: -612760493753422636
+    second: Mossy - TileSet_608
+  - first:
+      213: -2639831731258226530
+    second: Mossy - TileSet_609
+  - first:
+      213: 7672022949124498593
+    second: Mossy - TileSet_610
+  - first:
+      213: 1493851103897554584
+    second: Mossy - TileSet_611
+  - first:
+      213: -5584653651015698676
+    second: Mossy - TileSet_612
+  - first:
+      213: -1840368513199160192
+    second: Mossy - TileSet_613
+  - first:
+      213: -6469670083696728878
+    second: Mossy - TileSet_614
+  - first:
+      213: -7372966881913755526
+    second: Mossy - TileSet_615
+  - first:
+      213: -5158179475972418601
+    second: Mossy - TileSet_616
+  - first:
+      213: -5944811633665259969
+    second: Mossy - TileSet_617
+  - first:
+      213: -8937685369486119968
+    second: Mossy - TileSet_618
+  - first:
+      213: 9044882963234455636
+    second: Mossy - TileSet_619
+  - first:
+      213: 2759426056605544624
+    second: Mossy - TileSet_620
+  - first:
+      213: -2014880747970174053
+    second: Mossy - TileSet_621
+  - first:
+      213: -6844128613521870801
+    second: Mossy - TileSet_622
+  - first:
+      213: 7125826394948692808
+    second: Mossy - TileSet_623
+  - first:
+      213: 3525400848400759894
+    second: Mossy - TileSet_624
+  - first:
+      213: 3727152098800191640
+    second: Mossy - TileSet_625
+  - first:
+      213: -7278369605803005093
+    second: Mossy - TileSet_626
+  - first:
+      213: 6604610640021827663
+    second: Mossy - TileSet_627
+  - first:
+      213: 1018405066161292973
+    second: Mossy - TileSet_628
+  - first:
+      213: -3700194010319142615
+    second: Mossy - TileSet_629
+  - first:
+      213: 4431448509779377572
+    second: Mossy - TileSet_630
+  - first:
+      213: 545700939153144307
+    second: Mossy - TileSet_631
+  - first:
+      213: 4906662779692108536
+    second: Mossy - TileSet_632
+  - first:
+      213: 5553994247725331531
+    second: Mossy - TileSet_633
+  - first:
+      213: -5037637175987851517
+    second: Mossy - TileSet_634
+  - first:
+      213: -1053374821038508827
+    second: Mossy - TileSet_635
+  - first:
+      213: -2262487964690709499
+    second: Mossy - TileSet_636
+  - first:
+      213: -3004753444242746218
+    second: Mossy - TileSet_637
+  - first:
+      213: 8792882451051901767
+    second: Mossy - TileSet_638
+  - first:
+      213: -6690697469813416201
+    second: Mossy - TileSet_639
+  - first:
+      213: 4413267095820530128
+    second: Mossy - TileSet_640
+  - first:
+      213: -160529640023506975
+    second: Mossy - TileSet_641
+  - first:
+      213: 1695415990855822738
+    second: Mossy - TileSet_642
+  - first:
+      213: 5644780814244936309
+    second: Mossy - TileSet_643
+  - first:
+      213: -4779944298857266724
+    second: Mossy - TileSet_644
+  - first:
+      213: 5974835202433058077
+    second: Mossy - TileSet_645
+  - first:
+      213: 4073228378232029534
+    second: Mossy - TileSet_646
+  - first:
+      213: -7191876185502651612
+    second: Mossy - TileSet_647
+  - first:
+      213: -6183990660796313551
+    second: Mossy - TileSet_648
+  - first:
+      213: 5191282703357348897
+    second: Mossy - TileSet_649
+  - first:
+      213: -1944036864327174027
+    second: Mossy - TileSet_650
+  - first:
+      213: -6137362364326780404
+    second: Mossy - TileSet_651
+  - first:
+      213: -5557408863764338635
+    second: Mossy - TileSet_652
+  - first:
+      213: -1858044758743791094
+    second: Mossy - TileSet_653
+  - first:
+      213: 4958630402434909861
+    second: Mossy - TileSet_654
+  - first:
+      213: -5239086030233986426
+    second: Mossy - TileSet_655
+  - first:
+      213: -6526642193554919640
+    second: Mossy - TileSet_656
+  - first:
+      213: 727174423150608883
+    second: Mossy - TileSet_657
+  - first:
+      213: -1933804577156401832
+    second: Mossy - TileSet_658
+  - first:
+      213: -6194522583871266518
+    second: Mossy - TileSet_659
+  - first:
+      213: 5418277007970792994
+    second: Mossy - TileSet_660
+  - first:
+      213: -124304293547219402
+    second: Mossy - TileSet_661
+  - first:
+      213: 1633014546411961480
+    second: Mossy - TileSet_662
+  - first:
+      213: 5536420942278708578
+    second: Mossy - TileSet_663
+  - first:
+      213: -501954935399277957
+    second: Mossy - TileSet_664
+  - first:
+      213: 2672540600502229580
+    second: Mossy - TileSet_665
+  - first:
+      213: -3253321336452523135
+    second: Mossy - TileSet_666
+  - first:
+      213: 1793017364752023984
+    second: Mossy - TileSet_667
+  - first:
+      213: 3168059409884877227
+    second: Mossy - TileSet_668
+  - first:
+      213: -2865344360205601848
+    second: Mossy - TileSet_669
+  - first:
+      213: 458206700897116677
+    second: Mossy - TileSet_670
+  - first:
+      213: -6107702825862070121
+    second: Mossy - TileSet_671
+  - first:
+      213: 2997660793069955884
+    second: Mossy - TileSet_672
+  - first:
+      213: 4869089245053796855
+    second: Mossy - TileSet_673
+  - first:
+      213: 7032351459701684320
+    second: Mossy - TileSet_674
+  - first:
+      213: 5034866387670330167
+    second: Mossy - TileSet_675
+  - first:
+      213: -8829430486741563996
+    second: Mossy - TileSet_676
+  - first:
+      213: 2814430232468229566
+    second: Mossy - TileSet_677
+  - first:
+      213: -9125790793830954114
+    second: Mossy - TileSet_678
+  - first:
+      213: 1072830951594999836
+    second: Mossy - TileSet_679
+  - first:
+      213: -6527809983494736824
+    second: Mossy - TileSet_680
+  - first:
+      213: 7810333018101512549
+    second: Mossy - TileSet_681
+  - first:
+      213: -910140458690402743
+    second: Mossy - TileSet_682
+  - first:
+      213: -8903053200766662771
+    second: Mossy - TileSet_683
+  - first:
+      213: -8808633217151931785
+    second: Mossy - TileSet_684
+  - first:
+      213: 2005741940360689393
+    second: Mossy - TileSet_685
+  - first:
+      213: -8945761108541632846
+    second: Mossy - TileSet_686
+  - first:
+      213: -7073314077368087334
+    second: Mossy - TileSet_687
+  - first:
+      213: 6869016082815917318
+    second: Mossy - TileSet_688
+  - first:
+      213: -6591610385558638808
+    second: Mossy - TileSet_689
+  - first:
+      213: -7396580893414352967
+    second: Mossy - TileSet_690
+  - first:
+      213: -1793279960293280631
+    second: Mossy - TileSet_691
+  - first:
+      213: 8189755465296641754
+    second: Mossy - TileSet_692
+  - first:
+      213: 6786268350121201332
+    second: Mossy - TileSet_693
+  - first:
+      213: 8062809447010363937
+    second: Mossy - TileSet_694
+  - first:
+      213: 6801304804975080772
+    second: Mossy - TileSet_695
+  - first:
+      213: 651603222531208841
+    second: Mossy - TileSet_696
+  - first:
+      213: -8043821222980989185
+    second: Mossy - TileSet_697
+  - first:
+      213: -4730819693390902093
+    second: Mossy - TileSet_698
+  - first:
+      213: -6838834235378478583
+    second: Mossy - TileSet_699
+  - first:
+      213: 1000358667767412782
+    second: Mossy - TileSet_700
+  - first:
+      213: -2396060978096420881
+    second: Mossy - TileSet_701
+  - first:
+      213: -4218862080857025536
+    second: Mossy - TileSet_702
+  - first:
+      213: 2212357120383086206
+    second: Mossy - TileSet_703
+  - first:
+      213: 1782446112204591829
+    second: Mossy - TileSet_704
+  - first:
+      213: -1550730086775114348
+    second: Mossy - TileSet_705
+  - first:
+      213: -400474523950207114
+    second: Mossy - TileSet_706
+  - first:
+      213: 4857783614070277147
+    second: Mossy - TileSet_707
+  - first:
+      213: 7734132670230209778
+    second: Mossy - TileSet_708
+  - first:
+      213: -6058313458648626637
+    second: Mossy - TileSet_709
+  - first:
+      213: 55052179310254866
+    second: Mossy - TileSet_710
+  - first:
+      213: -5842620487173333577
+    second: Mossy - TileSet_711
+  - first:
+      213: -6094734583822900766
+    second: Mossy - TileSet_712
+  - first:
+      213: 7557267771030774088
+    second: Mossy - TileSet_713
+  - first:
+      213: -8697507929315149683
+    second: Mossy - TileSet_714
+  - first:
+      213: 2488779505341302167
+    second: Mossy - TileSet_715
+  - first:
+      213: 6480570206207289249
+    second: Mossy - TileSet_716
+  - first:
+      213: -577514672473294431
+    second: Mossy - TileSet_717
+  - first:
+      213: 8347750293584901145
+    second: Mossy - TileSet_718
+  - first:
+      213: -6421868852952030540
+    second: Mossy - TileSet_719
+  - first:
+      213: 4980558039817589071
+    second: Mossy - TileSet_720
+  - first:
+      213: -7017274385191054714
+    second: Mossy - TileSet_721
+  - first:
+      213: 511768603378514383
+    second: Mossy - TileSet_722
+  - first:
+      213: -9034072745373415036
+    second: Mossy - TileSet_723
+  - first:
+      213: -638482819668667080
+    second: Mossy - TileSet_724
+  - first:
+      213: -3200837585729072134
+    second: Mossy - TileSet_725
+  - first:
+      213: -621783827081898627
+    second: Mossy - TileSet_726
+  - first:
+      213: -3441226559281227892
+    second: Mossy - TileSet_727
+  - first:
+      213: 1685412306735416894
+    second: Mossy - TileSet_728
+  - first:
+      213: 5702577120964328286
+    second: Mossy - TileSet_729
+  - first:
+      213: -4638026964157243205
+    second: Mossy - TileSet_730
+  - first:
+      213: -8797709180177780944
+    second: Mossy - TileSet_731
+  - first:
+      213: 9169132952350660100
+    second: Mossy - TileSet_732
+  - first:
+      213: 6848653844134653257
+    second: Mossy - TileSet_733
+  - first:
+      213: 3049238978629783386
+    second: Mossy - TileSet_734
+  - first:
+      213: -5062760157986736289
+    second: Mossy - TileSet_735
+  - first:
+      213: 4660515122722858234
+    second: Mossy - TileSet_736
+  - first:
+      213: -5081704358256215525
+    second: Mossy - TileSet_737
+  - first:
+      213: 4126298390132966279
+    second: Mossy - TileSet_738
+  - first:
+      213: -7090464001703034027
+    second: Mossy - TileSet_739
+  - first:
+      213: 6560588759386202
+    second: Mossy - TileSet_740
+  - first:
+      213: 8537294929090883379
+    second: Mossy - TileSet_741
+  - first:
+      213: -9071900127834331342
+    second: Mossy - TileSet_742
+  - first:
+      213: -6446605639343471767
+    second: Mossy - TileSet_743
+  - first:
+      213: 7611821098186483868
+    second: Mossy - TileSet_744
+  - first:
+      213: -70041812374013919
+    second: Mossy - TileSet_745
+  - first:
+      213: -1691481679907853936
+    second: Mossy - TileSet_746
+  - first:
+      213: -1166819765625903292
+    second: Mossy - TileSet_747
+  - first:
+      213: -6628872834551755445
+    second: Mossy - TileSet_748
+  - first:
+      213: -4416870935635342988
+    second: Mossy - TileSet_749
+  - first:
+      213: -2772661257978084553
+    second: Mossy - TileSet_750
+  - first:
+      213: 1879343409662969863
+    second: Mossy - TileSet_751
+  - first:
+      213: -7795939574142640348
+    second: Mossy - TileSet_752
+  - first:
+      213: 4229131155843245530
+    second: Mossy - TileSet_753
+  - first:
+      213: -8659165043512371242
+    second: Mossy - TileSet_754
+  - first:
+      213: -5138989347204909192
+    second: Mossy - TileSet_755
+  - first:
+      213: 413550465063902924
+    second: Mossy - TileSet_756
+  - first:
+      213: -127628518915211849
+    second: Mossy - TileSet_757
+  - first:
+      213: -3692225662153920854
+    second: Mossy - TileSet_758
+  - first:
+      213: -3769400970768187078
+    second: Mossy - TileSet_759
+  - first:
+      213: -3348281098915507583
+    second: Mossy - TileSet_760
+  - first:
+      213: 3454441732927024768
+    second: Mossy - TileSet_761
+  - first:
+      213: -4968489438294895307
+    second: Mossy - TileSet_762
+  - first:
+      213: 3970354142930211156
+    second: Mossy - TileSet_763
+  - first:
+      213: 5162318586858822240
+    second: Mossy - TileSet_764
+  - first:
+      213: 4442076762085283287
+    second: Mossy - TileSet_765
+  - first:
+      213: 2033934202153714384
+    second: Mossy - TileSet_766
+  - first:
+      213: 601972250301158071
+    second: Mossy - TileSet_767
+  - first:
+      213: -9051674191635324768
+    second: Mossy - TileSet_768
+  - first:
+      213: 5496623585414297009
+    second: Mossy - TileSet_769
+  - first:
+      213: 4126865284898861582
+    second: Mossy - TileSet_770
+  - first:
+      213: -8526918755971006840
+    second: Mossy - TileSet_771
+  - first:
+      213: 4176834696485315683
+    second: Mossy - TileSet_772
+  - first:
+      213: 8520670076147832286
+    second: Mossy - TileSet_773
+  - first:
+      213: 1215176707775278146
+    second: Mossy - TileSet_774
+  - first:
+      213: -7334793112551922905
+    second: Mossy - TileSet_775
+  - first:
+      213: -2536508782819574068
+    second: Mossy - TileSet_776
+  - first:
+      213: -8543103669070678458
+    second: Platform Ground_0
+  - first:
+      213: -2598893136037280613
+    second: Platform Ground_1
+  - first:
+      213: -7073232087332328224
+    second: Platform Ground_2
+  - first:
+      213: 6330678793484265781
+    second: Platform Ground_3
+  - first:
+      213: 8441247445724189549
+    second: Platform Ground_4
+  - first:
+      213: -2345381707832066207
+    second: Platform Ground_5
+  - first:
+      213: 8010977627002711945
+    second: Platform Ground_6
+  - first:
+      213: 7842759689665003663
+    second: Platform Ground_7
+  - first:
+      213: 7389545653226939408
+    second: Platform Ground_8
+  - first:
+      213: -5788940197258047914
+    second: Platform Ground_9
+  - first:
+      213: -1529321366996713034
+    second: Platform Ground_10
+  - first:
+      213: 2038736199909460738
+    second: Platform Ground_11
+  - first:
+      213: -4017038373189647534
+    second: Platform Ground_12
+  - first:
+      213: -8498199433712317503
+    second: Platform Ground_13
+  - first:
+      213: -8325659581862962475
+    second: Platform Ground_14
+  - first:
+      213: 7889170675783680577
+    second: Platform Ground_15
+  - first:
+      213: 2036307414628183924
+    second: Platform Ground_16
+  - first:
+      213: 1206078450637826020
+    second: Platform Ground_17
+  - first:
+      213: 1350289636885866259
+    second: Platform Ground_18
+  - first:
+      213: 2899907344361546000
+    second: Platform Ground_19
+  - first:
+      213: -7697398471694183274
+    second: Platform Ground_20
+  - first:
+      213: 4705140205028723526
+    second: Platform Ground_21
+  - first:
+      213: -1576203993075475234
+    second: Platform Ground_22
+  - first:
+      213: -834173985321060520
+    second: Platform Ground_23
+  - first:
+      213: -9185057834957725482
+    second: Platform Ground_24
+  - first:
+      213: -9006253652787789482
+    second: Platform Ground_25
+  - first:
+      213: 5998575407995838511
+    second: Platform Ground_26
+  - first:
+      213: -8186306980455068393
+    second: Platform Ground_27
+  - first:
+      213: -215369141745905622
+    second: Platform Ground_28
+  - first:
+      213: -2390413086301327286
+    second: Platform Ground_29
+  - first:
+      213: -7952753993908494555
+    second: Platform Ground_30
+  - first:
+      213: 1803357402267299792
+    second: Platform Ground_31
+  - first:
+      213: 8819490249549245634
+    second: Platform Ground_32
+  - first:
+      213: -4517142611644088698
+    second: Platform Ground_33
+  - first:
+      213: 5553332799904399775
+    second: Platform Ground_34
+  - first:
+      213: -1932834482705676433
+    second: Platform Ground_35
+  - first:
+      213: 8198879653870768531
+    second: Platform Ground_36
+  - first:
+      213: 5385492297950090123
+    second: Platform Ground_37
+  - first:
+      213: -1863872922703316112
+    second: Platform Ground_38
+  - first:
+      213: -2124019743928239199
+    second: Platform Ground_39
+  - first:
+      213: 184986106327383291
+    second: Platform Ground_40
+  - first:
+      213: -3667716719731021416
+    second: Platform Ground_41
+  - first:
+      213: -718395794675149553
+    second: Platform Ground_42
+  - first:
+      213: -7958683822824841021
+    second: Platform Ground_43
+  - first:
+      213: -201074550416493559
+    second: Platform Ground_44
+  - first:
+      213: 2404485062623964593
+    second: Platform Ground_45
+  - first:
+      213: -247947800171962698
+    second: Platform Ground_46
+  - first:
+      213: 6606628866846585923
+    second: Platform Ground_47
+  - first:
+      213: -5807607255502249423
+    second: Platform Ground_48
+  - first:
+      213: 2185409298772208834
+    second: Platform Ground_49
+  - first:
+      213: -6240807532016469889
+    second: Platform Ground_50
+  - first:
+      213: -1290023357224081225
+    second: Platform Ground_51
+  - first:
+      213: -8246462450545200201
+    second: Platform Ground_52
+  - first:
+      213: 7169182287997205416
+    second: Platform Ground_53
+  - first:
+      213: -3373040245411245370
+    second: Platform Ground_54
+  - first:
+      213: 2036171394396069978
+    second: Platform Ground_55
+  - first:
+      213: 470656923105267050
+    second: Platform Ground_56
+  - first:
+      213: 2614051301114417266
+    second: Platform Ground_57
+  - first:
+      213: -3599708393712630172
+    second: Platform Ground_58
+  - first:
+      213: -6297088114513423301
+    second: Platform Ground_59
+  - first:
+      213: 870003890678170262
+    second: Platform Ground_60
+  - first:
+      213: -906007312397438947
+    second: Platform Ground_61
+  - first:
+      213: -989647841158633388
+    second: Platform Ground_62
+  - first:
+      213: -6785596540018345198
+    second: Platform Ground_63
+  - first:
+      213: -834669297879275739
+    second: Platform Ground_64
+  - first:
+      213: 3169205258209924049
+    second: Platform Ground_65
+  - first:
+      213: 1945513212807804692
+    second: Platform Ground_66
+  - first:
+      213: 167710602589724153
+    second: Platform Ground_67
+  - first:
+      213: 8476230703378163351
+    second: Platform Ground_68
+  - first:
+      213: 8952562853487246104
+    second: Platform Ground_69
+  - first:
+      213: -6376802291840597171
+    second: Platform Ground_70
+  - first:
+      213: 4197578573159736695
+    second: Platform Ground_71
+  - first:
+      213: -5725482761064117294
+    second: Platform Ground_72
+  - first:
+      213: -3062531918170556913
+    second: Platform Ground_73
+  - first:
+      213: -4862854242644142539
+    second: Platform Ground_74
+  - first:
+      213: 283957160466524076
+    second: Platform Ground_75
+  - first:
+      213: 4295201676742127591
+    second: Platform Ground_76
+  - first:
+      213: 3899594277487406904
+    second: Platform Ground_77
+  - first:
+      213: 8566192776598289198
+    second: Platform Ground_78
+  - first:
+      213: -8408129801409980768
+    second: Platform Ground_79
+  - first:
+      213: -903263960672407791
+    second: Platform Ground_80
+  - first:
+      213: 2311436331407526608
+    second: Platform Ground_81
+  - first:
+      213: -5607695791457705487
+    second: Platform Ground_82
+  - first:
+      213: -3029419548320935370
+    second: Platform Ground_83
+  - first:
+      213: -4841148758846259769
+    second: Platform Ground_84
+  - first:
+      213: 929181443178693419
+    second: Platform Ground_85
+  - first:
+      213: -5082904065161677758
+    second: Platform Ground_86
+  - first:
+      213: -6417496412760218058
+    second: Platform Ground_87
+  - first:
+      213: 17487346190315329
+    second: Platform Ground_88
+  - first:
+      213: -7850962059147585246
+    second: Platform Ground_89
+  - first:
+      213: 7823747185682419434
+    second: Platform Ground_90
+  - first:
+      213: -5244896695604386323
+    second: Platform Ground_91
+  - first:
+      213: 852460706411088459
+    second: Platform Ground_92
+  - first:
+      213: 7193280695427446809
+    second: Platform Ground_93
+  - first:
+      213: 8875370813509507772
+    second: Platform Ground_94
+  - first:
+      213: 1090012429648598009
+    second: Platform Ground_95
+  - first:
+      213: -6165818333525463776
+    second: Platform Ground_96
+  - first:
+      213: 8840275820349908318
+    second: Platform Ground_97
+  - first:
+      213: -40820452329683548
+    second: Platform Ground_98
+  - first:
+      213: -8858266597469501103
+    second: Platform Ground_99
+  - first:
+      213: 3191051274295985997
+    second: Platform Ground_100
+  - first:
+      213: 1182414292054695642
+    second: Platform Ground_101
+  - first:
+      213: 3719102141208033494
+    second: Platform Ground_102
+  - first:
+      213: -893360122073528386
+    second: Platform Ground_103
+  - first:
+      213: -1974546417351775423
+    second: Platform Ground_104
+  - first:
+      213: 7058612560387057252
+    second: Platform Ground_105
+  - first:
+      213: -8601061809885212282
+    second: Platform Ground_106
+  - first:
+      213: -2478259535120657829
+    second: Platform Ground_107
+  - first:
+      213: -6127898654053657447
+    second: Platform Ground_108
+  - first:
+      213: 5065482725619359381
+    second: Platform Ground_109
+  - first:
+      213: 2431564888480454110
+    second: Platform Ground_110
+  - first:
+      213: -530489151554211393
+    second: Platform Ground_111
+  - first:
+      213: 3735305588008283868
+    second: Platform Ground_112
+  - first:
+      213: 1374885745370365765
+    second: Platform Ground_113
+  - first:
+      213: 6317349306256323620
+    second: Platform Ground_114
+  - first:
+      213: -3319451441583524405
+    second: Platform Ground_115
+  - first:
+      213: 656059168245631224
+    second: Platform Ground_116
+  - first:
+      213: -4332090985351543439
+    second: Platform Ground_117
+  - first:
+      213: 3065355826789304687
+    second: Platform Ground_118
+  - first:
+      213: 5964464131618829571
+    second: Platform Ground_119
+  - first:
+      213: 5455280580613928017
+    second: Platform Ground_120
+  - first:
+      213: 9132252740338534616
+    second: Platform Ground_121
+  - first:
+      213: -1141205729008707152
+    second: Platform Ground_122
+  - first:
+      213: -9122733175033268058
+    second: Platform Ground_123
+  - first:
+      213: -4945860078370778367
+    second: Platform Ground_124
+  - first:
+      213: 4186832324044181465
+    second: Platform Ground_125
+  - first:
+      213: 4856730361895768638
+    second: Platform Ground_126
+  - first:
+      213: -7974065628834300692
+    second: Platform Ground_127
+  - first:
+      213: -4708234426801844526
+    second: Platform Ground_128
+  - first:
+      213: -9042172729770767945
+    second: Platform Ground_129
+  - first:
+      213: 490922571093485695
+    second: Platform Ground_130
+  - first:
+      213: -6635807320609587583
+    second: Platform Ground_131
+  - first:
+      213: -2460546859209948669
+    second: Platform Ground_132
+  - first:
+      213: 7892230469305740297
+    second: Platform Ground_133
+  - first:
+      213: -4534777170294653998
+    second: Platform Ground_134
+  - first:
+      213: -5735669102069803442
+    second: Platform Ground_135
+  - first:
+      213: 1360743529153880265
+    second: Platform Ground_136
+  - first:
+      213: 6042162515293590842
+    second: Platform Ground_137
+  - first:
+      213: -7639262195941897447
+    second: Platform Ground_138
+  - first:
+      213: 1911253889019960158
+    second: Platform Ground_139
+  - first:
+      213: -742524101692059602
+    second: Platform Ground_140
+  - first:
+      213: -8219674604607872629
+    second: Platform Ground_141
+  - first:
+      213: -8940729454871001451
+    second: Platform Ground_142
+  - first:
+      213: 430953140366863586
+    second: Platform Ground_143
+  - first:
+      213: -4732419243810346110
+    second: Platform Ground_144
+  - first:
+      213: 6679142121487354126
+    second: Platform Ground_145
+  - first:
+      213: -6479725601367673654
+    second: Platform Ground_146
+  - first:
+      213: 2751089312130852146
+    second: Platform Ground_147
+  - first:
+      213: -1486543688195204390
+    second: Platform Ground_148
+  - first:
+      213: 1902068145415189352
+    second: Platform Ground_149
+  - first:
+      213: 619878861844785328
+    second: Platform Ground_150
+  - first:
+      213: 6957337409828883906
+    second: Platform Ground_151
+  - first:
+      213: 5416098547153153209
+    second: Platform Ground_152
+  - first:
+      213: 5699557394579693822
+    second: Platform Ground_153
+  - first:
+      213: -4850259707228583523
+    second: Platform Ground_154
+  - first:
+      213: 2639627351022540347
+    second: Platform Ground_155
+  - first:
+      213: -8455183430885642953
+    second: Platform Ground_156
+  - first:
+      213: -7859005071973724720
+    second: Platform Ground_157
+  - first:
+      213: -6683739355013085774
+    second: Platform Ground_158
+  - first:
+      213: -7700847719414721406
+    second: Platform Ground_159
+  - first:
+      213: -5173244882118800900
+    second: Platform Ground_160
+  - first:
+      213: 3150707347933682239
+    second: Platform Ground_161
+  - first:
+      213: -2667322520121206375
+    second: Platform Ground_162
+  - first:
+      213: -2463424709508559995
+    second: Platform Ground_163
+  - first:
+      213: 7393802740042534904
+    second: Platform Ground_164
+  - first:
+      213: 8095556269990826450
+    second: Platform Ground_165
+  - first:
+      213: 3596536568900945724
+    second: Platform Ground_166
+  - first:
+      213: -6175029201489214859
+    second: Platform Ground_167
+  - first:
+      213: 6673626572418503220
+    second: Platform Ground_168
+  - first:
+      213: -429488055819194549
+    second: Platform Ground_169
+  - first:
+      213: 7136805607031671152
+    second: Platform Ground_170
+  - first:
+      213: -816448102970761068
+    second: Platform Ground_171
+  - first:
+      213: 8802005279517875758
+    second: Platform Ground_172
+  - first:
+      213: 2021372420460334426
+    second: Platform Ground_173
+  - first:
+      213: -8515210450746206526
+    second: Platform Ground_174
+  - first:
+      213: 1941316010286984569
+    second: Platform Ground_175
+  - first:
+      213: -2717275640072024628
+    second: Platform Ground_176
+  - first:
+      213: 4194673806013759623
+    second: Platform Ground_177
+  - first:
+      213: 4080704510084349924
+    second: Platform Ground_178
+  - first:
+      213: 5046753838002859453
+    second: Platform Ground_179
+  - first:
+      213: 664747006032451625
+    second: Platform Ground_180
+  - first:
+      213: 3650533389970756320
+    second: Platform Ground_181
+  - first:
+      213: 6889492032603208485
+    second: Platform Ground_182
+  - first:
+      213: -6612977167721274989
+    second: Platform Ground_183
+  - first:
+      213: 7389795220476535189
+    second: Platform Ground_184
+  - first:
+      213: -5469359439803151845
+    second: Platform Ground_185
+  - first:
+      213: 4528208867723906187
+    second: Platform Ground_186
+  - first:
+      213: -6333299975727593446
+    second: Platform Ground_187
+  - first:
+      213: -5387724110647107325
+    second: Platform Ground_188
+  - first:
+      213: 6678256603788200282
+    second: Platform Ground_189
+  - first:
+      213: -2357688269514269507
+    second: Platform Ground_190
+  - first:
+      213: 481083619075396732
+    second: Platform Ground_191
+  - first:
+      213: 1899567650126525141
+    second: Platform Ground_192
+  - first:
+      213: -2844399636712379546
+    second: Platform Ground_193
+  - first:
+      213: -8079708040723211914
+    second: Platform Ground_194
+  - first:
+      213: -2276748685656914216
+    second: Platform Ground_195
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Platform Ground_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646b4bde97cc07980800000000000000
+      internalID: -8543103669070678458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b940c495670eeebd0800000000000000
+      internalID: -2598893136037280613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec69a464e4d6dd90800000000000000
+      internalID: -7073232087332328224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5396ab042d61bd750800000000000000
+      internalID: 6330678793484265781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63509704d5552570800000000000000
+      internalID: 8441247445724189549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f78f953c7837fd0800000000000000
+      internalID: -2345381707832066207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f291135b5bc2f60800000000000000
+      internalID: 8010977627002711945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f804c31926417dc60800000000000000
+      internalID: 7842759689665003663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014af10ce90fc8660800000000000000
+      internalID: 7389545653226939408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e447ccf8d89afa0800000000000000
+      internalID: -5788940197258047914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b10fb4c152c6cae0800000000000000
+      internalID: -1529321366996713034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_11
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b455aa5cb0b4c10800000000000000
+      internalID: 2038736199909460738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2530becf1ec9048c0800000000000000
+      internalID: -4017038373189647534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_13
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 3328
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbc623f3a4501a80800000000000000
+      internalID: -8498199433712317503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5da1b36b8b0557c80800000000000000
+      internalID: -8325659581862962475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142c3865ee6fb7d60800000000000000
+      internalID: 7889170675783680577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_16
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f28660eca624c10800000000000000
+      internalID: 2036307414628183924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_17
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e76585f5f9dcb010800000000000000
+      internalID: 1206078450637826020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317297645413db210800000000000000
+      internalID: 1350289636885866259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_19
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01167368d5a8e3820800000000000000
+      internalID: 2899907344361546000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_20
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69498006fd85d2590800000000000000
+      internalID: -7697398471694183274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_21
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b452b66140c4140800000000000000
+      internalID: 4705140205028723526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_22
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc1f23c1d2302ae0800000000000000
+      internalID: -1576203993075475234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_23
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857f0141e2b6c64f0800000000000000
+      internalID: -834173985321060520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_24
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d02de9409e188080800000000000000
+      internalID: -9185057834957725482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_25
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651058c150c530380800000000000000
+      internalID: -9006253652787789482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_26
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f206cff3d883f3350800000000000000
+      internalID: 5998575407995838511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_27
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 3072
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dcca79c25646e80800000000000000
+      internalID: -8186306980455068393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2097aa18ead20df0800000000000000
+      internalID: -215369141745905622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40709486fb83ded0800000000000000
+      internalID: -2390413086301327286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_30
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52fd307c06422a190800000000000000
+      internalID: -7952753993908494555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_31
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dfa635b000d60910800000000000000
+      internalID: 1803357402267299792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_32
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc676087af156a70800000000000000
+      internalID: 8819490249549245634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_33
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e7c214ab2ef41c0800000000000000
+      internalID: -4517142611644088698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_34
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91c3d932c6611d40800000000000000
+      internalID: 5553332799904399775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_35
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67c3b057413d25e0800000000000000
+      internalID: -1932834482705676433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_36
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391152d0b9548c170800000000000000
+      internalID: 8198879653870768531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_37
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83daef16bc1dba40800000000000000
+      internalID: 5385492297950090123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_38
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bbcc7b3713226e0800000000000000
+      internalID: -1863872922703316112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_39
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1abbd33eb47f582e0800000000000000
+      internalID: -2124019743928239199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_40
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfcb60432e3319200800000000000000
+      internalID: 184986106327383291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_41
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2816
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899eba76317a91dc0800000000000000
+      internalID: -3667716719731021416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05d04ab4deb706f0800000000000000
+      internalID: -718395794675149553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_43
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0a0e4ea331d8190800000000000000
+      internalID: -7958683822824841021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904bd0103c3a53df0800000000000000
+      internalID: -201074550416493559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_45
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd2f69cc627e5120800000000000000
+      internalID: 2404485062623964593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_46
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6be19e71acc1f8cf0800000000000000
+      internalID: -247947800171962698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3447b3373f57fab50800000000000000
+      internalID: 6606628866846585923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_48
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 132aecc98fb376fa0800000000000000
+      internalID: -5807607255502249423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_49
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc272ead22245e10800000000000000
+      internalID: 2185409298772208834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_50
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7873966d923469a0800000000000000
+      internalID: -6240807532016469889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_51
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8a3b8679ae81ee0800000000000000
+      internalID: -1290023357224081225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_52
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3f7a5c71eae8d80800000000000000
+      internalID: -8246462450545200201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_53
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab78169e4d0e7360800000000000000
+      internalID: 7169182287997205416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_54
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c29a2794cd8031d0800000000000000
+      internalID: -3373040245411245370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_55
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2560
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a502ac8581fe14c10800000000000000
+      internalID: 2036171394396069978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d84c85afb188600800000000000000
+      internalID: 470656923105267050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270929bfec9f64420800000000000000
+      internalID: 2614051301114417266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46644c9b9444b0ec0800000000000000
+      internalID: -3599708393712630172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_59
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34d71729bf3c98a0800000000000000
+      internalID: -6297088114513423301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_60
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6928419ddefd21c00800000000000000
+      internalID: 870003890678170262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_61
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10f4ac46273d63f0800000000000000
+      internalID: -906007312397438947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_62
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458e10728801442f0800000000000000
+      internalID: -989647841158633388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_63
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b361306e7b4d1a0800000000000000
+      internalID: -6785596540018345198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_64
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5272bf222b8aa64f0800000000000000
+      internalID: -834669297879275739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_65
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d317e324674bfb20800000000000000
+      internalID: 3169205258209924049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_66
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417fc3395f9dffa10800000000000000
+      internalID: 1945513212807804692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_67
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd5d6c87e3d35200800000000000000
+      internalID: 167710602589724153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_68
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7966d1d6aee91a570800000000000000
+      internalID: 8476230703378163351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_69
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2304
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bf6778b74ed3c70800000000000000
+      internalID: 8952562853487246104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43c1ffe91c0187a0800000000000000
+      internalID: -6376802291840597171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_71
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7752af9f87bc04a30800000000000000
+      internalID: 4197578573159736695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_72
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db862383cffa80b0800000000000000
+      internalID: -5725482761064117294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_73
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f06f5284273bf75d0800000000000000
+      internalID: -3062531918170556913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_74
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536d1b0b4dba38cb0800000000000000
+      internalID: -4862854242644142539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_75
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca729017881d0f300800000000000000
+      internalID: 283957160466524076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_76
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef60e40b2f9b9b30800000000000000
+      internalID: 4295201676742127591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_77
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f68cd95542e1630800000000000000
+      internalID: 3899594277487406904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_78
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b78a6d1fa31e670800000000000000
+      internalID: 8566192776598289198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_79
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a615996e72505b80800000000000000
+      internalID: -8408129801409980768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_80
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f65b5a636f673f0800000000000000
+      internalID: -903263960672407791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_81
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da4a7ec81fd31020800000000000000
+      internalID: 2311436331407526608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_82
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1e5b573667d22b0800000000000000
+      internalID: -5607695791457705487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_83
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 2048
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 632d4baa8f655f5d0800000000000000
+      internalID: -3029419548320935370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd35247ad8c0dcb0800000000000000
+      internalID: -4841148758846259769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_85
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b230d8c799d15ec00800000000000000
+      internalID: 929181443178693419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_86
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24436a0eea5e579b0800000000000000
+      internalID: -5082904065161677758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_87
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6366512930970f6a0800000000000000
+      internalID: -6417496412760218058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14fecb116a02e3000800000000000000
+      internalID: 17487346190315329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_89
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22950777a97cb0390800000000000000
+      internalID: -7850962059147585246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_90
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee00170d98839c60800000000000000
+      internalID: 7823747185682419434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_91
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de561e67e326637b0800000000000000
+      internalID: -5244896695604386323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_92
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a8c96fe7c84db00800000000000000
+      internalID: 852460706411088459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_93
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918b0ac4eaaa3d360800000000000000
+      internalID: 7193280695427446809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_94
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba9a1d2bb6ab2b70800000000000000
+      internalID: 8875370813509507772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_95
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f317f59780802f00800000000000000
+      internalID: 1090012429648598009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_96
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02daf90c4ec9e6aa0800000000000000
+      internalID: -6165818333525463776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_97
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e556e645508feaa70800000000000000
+      internalID: 8840275820349908318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5815fc30afe6ff0800000000000000
+      internalID: -40820452329683548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_99
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1594f14767d111580800000000000000
+      internalID: -8858266597469501103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_100
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4748702a34e84c20800000000000000
+      internalID: 3191051274295985997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_101
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aded34fa887c86010800000000000000
+      internalID: 1182414292054695642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_102
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8791a51b7ec9330800000000000000
+      internalID: 3719102141208033494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_103
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7ce43c3b52a93f0800000000000000
+      internalID: -893360122073528386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_104
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b2a39be700994e0800000000000000
+      internalID: -1974546417351775423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_105
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4662bfcb9ba35f160800000000000000
+      internalID: 7058612560387057252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_106
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6811d92bad3e2a880800000000000000
+      internalID: -8601061809885212282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_107
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5298eb45147b9dd0800000000000000
+      internalID: -2478259535120657829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_108
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994998124a455faa0800000000000000
+      internalID: -6127898654053657447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_109
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e5b6c63b53c4640800000000000000
+      internalID: 5065482725619359381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_110
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed590321267aeb120800000000000000
+      internalID: 2431564888480454110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_111
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb1b9646de253a8f0800000000000000
+      internalID: -530489151554211393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdee3cc44a876d330800000000000000
+      internalID: 3735305588008283868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_113
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f7c8b0d43941310800000000000000
+      internalID: 1374885745370365765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_114
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424f77929bbbba750800000000000000
+      internalID: 6317349306256323620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_115
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc571474080fee1d0800000000000000
+      internalID: -3319451441583524405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_116
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f84bea665aca1900800000000000000
+      internalID: 656059168245631224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_117
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1750373833251e3c0800000000000000
+      internalID: -4332090985351543439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_118
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6943fd22e45a8a20800000000000000
+      internalID: 3065355826789304687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_119
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305f2b0d68806c250800000000000000
+      internalID: 5964464131618829571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_120
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1547495e8cc05bb40800000000000000
+      internalID: 5455280580613928017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_121
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d847fa8b774cbe70800000000000000
+      internalID: 9132252740338534616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_122
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b99bc29f6f9920f0800000000000000
+      internalID: -1141205729008707152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_123
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a87879f28a856180800000000000000
+      internalID: -9122733175033268058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_124
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1039ce78676cc5bb0800000000000000
+      internalID: -4945860078370778367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_125
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfc6c0e0dd9a1a30800000000000000
+      internalID: 4186832324044181465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_126
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32d6a63882966340800000000000000
+      internalID: 4856730361895768638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_127
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cecfda91f8d665190800000000000000
+      internalID: -7974065628834300692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_128
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de063febbdf8aeb0800000000000000
+      internalID: -4708234426801844526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_129
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b90a4c4fcfb38280800000000000000
+      internalID: -9042172729770767945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_130
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78af363a7b10d600800000000000000
+      internalID: 490922571093485695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_131
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ef0216660e8e3a0800000000000000
+      internalID: -6635807320609587583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_132
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30286970ba16addd0800000000000000
+      internalID: -2460546859209948669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_133
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cab780cc5d68d60800000000000000
+      internalID: 7892230469305740297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_134
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db390d903c3111c0800000000000000
+      internalID: -4534777170294653998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_135
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4612fd275fc660b0800000000000000
+      internalID: -5735669102069803442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_136
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0e0adb70552e210800000000000000
+      internalID: 1360743529153880265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_137
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35514f7bc21ad350800000000000000
+      internalID: 6042162515293590842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_138
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b00d0e183ebf590800000000000000
+      internalID: -7639262195941897447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_139
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b5e9a2943268a10800000000000000
+      internalID: 1911253889019960158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e209a79734602b5f0800000000000000
+      internalID: -742524101692059602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_141
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b816c0f2f79dded80800000000000000
+      internalID: -8219674604607872629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_142
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596ca894ee52ce380800000000000000
+      internalID: -8940729454871001451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_143
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ece76e099d0bf500800000000000000
+      internalID: 430953140366863586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_144
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b267c65c1135eb0800000000000000
+      internalID: -4732419243810346110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_145
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e094a933f5411bc50800000000000000
+      internalID: 6679142121487354126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_146
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4b97885e36316a0800000000000000
+      internalID: -6479725601367673654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_147
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235eeea4725dd2620800000000000000
+      internalID: 2751089312130852146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_148
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada9602446cbe5be0800000000000000
+      internalID: -1486543688195204390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_149
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863fe0296e0856a10800000000000000
+      internalID: 1902068145415189352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_150
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b828046a804a9800800000000000000
+      internalID: 619878861844785328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_151
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd036f338d6d8060800000000000000
+      internalID: 6957337409828883906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_152
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bca293dee8d92b40800000000000000
+      internalID: 5416098547153153209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_153
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0afd8b045e81f40800000000000000
+      internalID: 5699557394579693822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_154
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99004a7e7a60bcb0800000000000000
+      internalID: -4850259707228583523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_155
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b369a152717d1a420800000000000000
+      internalID: 2639627351022540347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_156
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73dea43977729aa80800000000000000
+      internalID: -8455183430885642953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_157
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd430d96843fe290800000000000000
+      internalID: -7859005071973724720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_158
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b58525f7769e33a0800000000000000
+      internalID: -6683739355013085774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_159
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28498eeccc7112590800000000000000
+      internalID: -7700847719414721406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_160
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf983315031f438b0800000000000000
+      internalID: -5173244882118800900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_161
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3adcc8c3af89bb20800000000000000
+      internalID: 3150707347933682239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_162
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99996cecc44cbfad0800000000000000
+      internalID: -2667322520121206375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_163
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b82da474820ddd0800000000000000
+      internalID: -2463424709508559995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_164
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff8b830b601c9660800000000000000
+      internalID: 7393802740042534904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_165
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d15df31981395070800000000000000
+      internalID: 8095556269990826450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_166
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c370b0344f679e130800000000000000
+      internalID: 3596536568900945724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_167
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572429f68a3ed4aa0800000000000000
+      internalID: -6175029201489214859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_168
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432dc9c520c7d9c50800000000000000
+      internalID: 6673626572418503220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_169
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4faf9583e62a0af0800000000000000
+      internalID: -429488055819194549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_170
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079832e13e60b0360800000000000000
+      internalID: 7136805607031671152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_171
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490e2eca6c46ba4f0800000000000000
+      internalID: -816448102970761068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_172
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e96ccaa21072a70800000000000000
+      internalID: 8802005279517875758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_173
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d4f48b18b5d0c10800000000000000
+      internalID: 2021372420460334426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_174
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c61497e535e3d980800000000000000
+      internalID: -8515210450746206526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_175
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d2fe530a0f0fa10800000000000000
+      internalID: 1941316010286984569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_176
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccd4facb33c4a4ad0800000000000000
+      internalID: -2717275640072024628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_177
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780061c2a99763a30800000000000000
+      internalID: 4194673806013759623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_178
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef79e4a12391a830800000000000000
+      internalID: 4080704510084349924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_179
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdeff670eba90640800000000000000
+      internalID: 5046753838002859453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_180
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928911841e7a93900800000000000000
+      internalID: 664747006032451625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_181
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2d8edd6cc49a230800000000000000
+      internalID: 3650533389970756320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_182
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bb23660846c9f50800000000000000
+      internalID: 6889492032603208485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_183
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39164329d4cf934a0800000000000000
+      internalID: -6612977167721274989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_184
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5912267a993dd8660800000000000000
+      internalID: 7389795220476535189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_185
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a8a91419ee814b0800000000000000
+      internalID: -5469359439803151845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_186
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c057549fd67de30800000000000000
+      internalID: 4528208867723906187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_187
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1844c23a399b18a0800000000000000
+      internalID: -6333299975727593446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_188
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301621d7775fa35b0800000000000000
+      internalID: -5387724110647107325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_189
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59c3bb8ffeedac50800000000000000
+      internalID: 6678256603788200282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_190
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc1f7ca20fc74fd0800000000000000
+      internalID: -2357688269514269507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_191
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c749f3ea0072da600800000000000000
+      internalID: 481083619075396732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_192
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d27d94a6be9c5a10800000000000000
+      internalID: 1899567650126525141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_193
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b2286c999a688d0800000000000000
+      internalID: -2844399636712379546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_194
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67953d7585c1fdf80800000000000000
+      internalID: -8079708040723211914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Platform Ground_195
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d60594122d5760e0800000000000000
+      internalID: -2276748685656914216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2369 @@
+fileFormatVersion: 2
+guid: 881220821c4ebda4fb4d7a8a9f750a6d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2527406384049011000
+    second: Mossy - FloatingPlatforms_0
+  - first:
+      213: -5043810790546849346
+    second: Mossy - FloatingPlatforms_1
+  - first:
+      213: 3758862390733383049
+    second: Mossy - FloatingPlatforms_2
+  - first:
+      213: 927450667673174160
+    second: Mossy - FloatingPlatforms_3
+  - first:
+      213: 1823048953446468025
+    second: Mossy - FloatingPlatforms_4
+  - first:
+      213: 6504452907052581091
+    second: Mossy - FloatingPlatforms_5
+  - first:
+      213: 9153258738859498887
+    second: Mossy - FloatingPlatforms_6
+  - first:
+      213: 1378068251089034365
+    second: Mossy - FloatingPlatforms_7
+  - first:
+      213: -2564032576524098436
+    second: Mossy - FloatingPlatforms_8
+  - first:
+      213: 6823571529453442794
+    second: Mossy - FloatingPlatforms_9
+  - first:
+      213: -8761391449306003191
+    second: Mossy - FloatingPlatforms_10
+  - first:
+      213: 6096126532202164060
+    second: Mossy - FloatingPlatforms_11
+  - first:
+      213: 1171786598264239514
+    second: Mossy - FloatingPlatforms_12
+  - first:
+      213: 2938325301389888496
+    second: Mossy - FloatingPlatforms_13
+  - first:
+      213: 6892653070513589053
+    second: Mossy - FloatingPlatforms_14
+  - first:
+      213: 5811768318273653402
+    second: Mossy - FloatingPlatforms_15
+  - first:
+      213: -909451264686722216
+    second: Mossy - FloatingPlatforms_16
+  - first:
+      213: 3510567541546622247
+    second: Mossy - FloatingPlatforms_17
+  - first:
+      213: -2292845510539038761
+    second: Mossy - FloatingPlatforms_18
+  - first:
+      213: 5809457251986423230
+    second: Mossy - FloatingPlatforms_19
+  - first:
+      213: -2966044447168542970
+    second: Mossy - FloatingPlatforms_20
+  - first:
+      213: -137098104263556674
+    second: Mossy - FloatingPlatforms_21
+  - first:
+      213: 4894150612136367923
+    second: Mossy - FloatingPlatforms_22
+  - first:
+      213: 4128242980305637353
+    second: Mossy - FloatingPlatforms_23
+  - first:
+      213: -7530259464496634229
+    second: Mossy - FloatingPlatforms_24
+  - first:
+      213: -3781211641475302327
+    second: Mossy - FloatingPlatforms_25
+  - first:
+      213: 307420960679640908
+    second: Mossy - FloatingPlatforms_26
+  - first:
+      213: 3398376854161980533
+    second: Mossy - FloatingPlatforms_27
+  - first:
+      213: 9216123747787695750
+    second: Mossy - FloatingPlatforms_28
+  - first:
+      213: -3516872149304022409
+    second: Mossy - FloatingPlatforms_29
+  - first:
+      213: -3470735806929903836
+    second: Mossy - FloatingPlatforms_30
+  - first:
+      213: 3025258220829997645
+    second: Mossy - FloatingPlatforms_31
+  - first:
+      213: 9076752257559138130
+    second: Mossy - FloatingPlatforms_32
+  - first:
+      213: 1050999005100789621
+    second: Mossy - FloatingPlatforms_33
+  - first:
+      213: -8547320073302532174
+    second: Mossy - FloatingPlatforms_34
+  - first:
+      213: -8280344554842373049
+    second: Mossy - FloatingPlatforms_35
+  - first:
+      213: 4400652784531154403
+    second: Mossy - FloatingPlatforms_36
+  - first:
+      213: 5687965069255678792
+    second: Mossy - FloatingPlatforms_37
+  - first:
+      213: 9056255274885631089
+    second: Mossy - FloatingPlatforms_38
+  - first:
+      213: 8553674699233921289
+    second: Mossy - FloatingPlatforms_39
+  - first:
+      213: -342138589133344208
+    second: Mossy - FloatingPlatforms_40
+  - first:
+      213: 2604836846744209098
+    second: Mossy - FloatingPlatforms_41
+  - first:
+      213: 2774061633389496032
+    second: Mossy - FloatingPlatforms_42
+  - first:
+      213: -928795530320820440
+    second: Mossy - FloatingPlatforms_43
+  - first:
+      213: 1322743683427987072
+    second: Mossy - FloatingPlatforms_44
+  - first:
+      213: -178960023614349795
+    second: Mossy - FloatingPlatforms_45
+  - first:
+      213: -3106690166283183348
+    second: Mossy - FloatingPlatforms_46
+  - first:
+      213: 6807686094138432031
+    second: Mossy - FloatingPlatforms_47
+  - first:
+      213: -7711962929110477281
+    second: Mossy - FloatingPlatforms_48
+  - first:
+      213: 1641652108122879299
+    second: Mossy - FloatingPlatforms_49
+  - first:
+      213: 6817181444223554414
+    second: Mossy - FloatingPlatforms_50
+  - first:
+      213: 3656081025416936426
+    second: Mossy - FloatingPlatforms_51
+  - first:
+      213: -4225201993979036379
+    second: Mossy - FloatingPlatforms_52
+  - first:
+      213: 8373748277760986354
+    second: Mossy - FloatingPlatforms_53
+  - first:
+      213: 3883609917179343836
+    second: Mossy - FloatingPlatforms_54
+  - first:
+      213: 1208516007781814325
+    second: Mossy - FloatingPlatforms_55
+  - first:
+      213: -4740068202963985062
+    second: Mossy - FloatingPlatforms_56
+  - first:
+      213: 4715370650717318108
+    second: Mossy - FloatingPlatforms_57
+  - first:
+      213: 8687766144448899851
+    second: Mossy - FloatingPlatforms_58
+  - first:
+      213: 1896301242955940899
+    second: Mossy - FloatingPlatforms_59
+  - first:
+      213: -3725185776171181425
+    second: Mossy - FloatingPlatforms_60
+  - first:
+      213: 1493956888200280199
+    second: Mossy - FloatingPlatforms_61
+  - first:
+      213: 8477623819897856274
+    second: Mossy - FloatingPlatforms_62
+  - first:
+      213: -4685982121006639535
+    second: Mossy - FloatingPlatforms_63
+  - first:
+      213: -7432995604421909245
+    second: Mossy - FloatingPlatforms_64
+  - first:
+      213: 8887469985711064531
+    second: Mossy - FloatingPlatforms_65
+  - first:
+      213: -7648549140430360947
+    second: Mossy - FloatingPlatforms_66
+  - first:
+      213: 2819579853370719494
+    second: Mossy - FloatingPlatforms_67
+  - first:
+      213: -5190625754331186284
+    second: Mossy - FloatingPlatforms_68
+  - first:
+      213: -2160214367949100984
+    second: Mossy - FloatingPlatforms_69
+  - first:
+      213: 680213414390525471
+    second: Mossy - FloatingPlatforms_70
+  - first:
+      213: 8585888832171637177
+    second: Mossy - FloatingPlatforms_71
+  - first:
+      213: 413297502612680955
+    second: Mossy - FloatingPlatforms_72
+  - first:
+      213: -4159069030795926283
+    second: Mossy - FloatingPlatforms_73
+  - first:
+      213: -4057903745781994259
+    second: Mossy - FloatingPlatforms_74
+  - first:
+      213: -1998847562946284802
+    second: Mossy - FloatingPlatforms_75
+  - first:
+      213: -1604127668387344009
+    second: Mossy - FloatingPlatforms_76
+  - first:
+      213: 3429747971534230043
+    second: Mossy - FloatingPlatforms_77
+  - first:
+      213: 751971594906365432
+    second: Mossy - FloatingPlatforms_78
+  - first:
+      213: -745934360932622352
+    second: Mossy - FloatingPlatforms_79
+  - first:
+      213: -2788902053587952718
+    second: Mossy - FloatingPlatforms_80
+  - first:
+      213: 6045622561447787469
+    second: Mossy - FloatingPlatforms_81
+  - first:
+      213: 9923094255347159
+    second: Mossy - FloatingPlatforms_82
+  - first:
+      213: -3852747639677801622
+    second: Mossy - FloatingPlatforms_83
+  - first:
+      213: -8414932990281067702
+    second: Mossy - FloatingPlatforms_84
+  - first:
+      213: 8072019840473805972
+    second: Mossy - FloatingPlatforms_85
+  - first:
+      213: 6278844459135155280
+    second: Mossy - FloatingPlatforms_86
+  - first:
+      213: 1165869332421374674
+    second: Mossy - FloatingPlatforms_87
+  - first:
+      213: -4484096456901989557
+    second: Mossy - FloatingPlatforms_88
+  - first:
+      213: -185296340130656550
+    second: Mossy - FloatingPlatforms_89
+  - first:
+      213: -962245770385012206
+    second: Mossy - FloatingPlatforms_90
+  - first:
+      213: -6056596044620195900
+    second: Mossy - FloatingPlatforms_91
+  - first:
+      213: 1726562037202421097
+    second: Mossy - FloatingPlatforms_92
+  - first:
+      213: 770538746373162514
+    second: Mossy - FloatingPlatforms_93
+  - first:
+      213: 8026364175160714863
+    second: Mossy - FloatingPlatforms_94
+  - first:
+      213: -6130433696007397636
+    second: Mossy - FloatingPlatforms_95
+  - first:
+      213: 6163419274140055177
+    second: Mossy - FloatingPlatforms_96
+  - first:
+      213: -7975087260107443330
+    second: Mossy - FloatingPlatforms_97
+  - first:
+      213: 6917468011319846633
+    second: Mossy - FloatingPlatforms_98
+  - first:
+      213: -5951639451219318435
+    second: Mossy - FloatingPlatforms_99
+  - first:
+      213: -637668149074024271
+    second: Mossy - FloatingPlatforms_100
+  - first:
+      213: -4761480541939727697
+    second: Mossy - FloatingPlatforms_101
+  - first:
+      213: 17231877852002472
+    second: Mossy - FloatingPlatforms_102
+  - first:
+      213: -426050814672356776
+    second: Mossy - FloatingPlatforms_103
+  - first:
+      213: 8938679608235277251
+    second: Mossy - FloatingPlatforms_104
+  - first:
+      213: -5803989186931721325
+    second: Mossy - FloatingPlatforms_105
+  - first:
+      213: -7628634557549045483
+    second: Mossy - FloatingPlatforms_106
+  - first:
+      213: -7920458902210131195
+    second: Mossy - FloatingPlatforms_107
+  - first:
+      213: 5723172817768370176
+    second: Mossy - FloatingPlatforms_108
+  - first:
+      213: -8625115516114877963
+    second: Mossy - FloatingPlatforms_109
+  - first:
+      213: 630200288583629175
+    second: Mossy - FloatingPlatforms_110
+  - first:
+      213: 4097840986683683669
+    second: Mossy - FloatingPlatforms_111
+  - first:
+      213: 4451753207649467171
+    second: Mossy - FloatingPlatforms_112
+  - first:
+      213: 5060428693655491570
+    second: Mossy - FloatingPlatforms_113
+  - first:
+      213: -2877493562720112878
+    second: Mossy - FloatingPlatforms_114
+  - first:
+      213: -8604233335177944762
+    second: Mossy - FloatingPlatforms_115
+  - first:
+      213: -7607383479153877747
+    second: Mossy - FloatingPlatforms_116
+  - first:
+      213: 4344193119410749312
+    second: Mossy - FloatingPlatforms_117
+  - first:
+      213: -1513784568966622973
+    second: Mossy - FloatingPlatforms_118
+  - first:
+      213: 5460636710222915910
+    second: Mossy - FloatingPlatforms_119
+  - first:
+      213: -777219930580366246
+    second: Mossy - FloatingPlatforms_120
+  - first:
+      213: 8986843243251585793
+    second: Mossy - FloatingPlatforms_121
+  - first:
+      213: 6350144864936280273
+    second: Mossy - FloatingPlatforms_122
+  - first:
+      213: -4452509099771875783
+    second: Mossy - FloatingPlatforms_123
+  - first:
+      213: 5212195589999010965
+    second: Mossy - FloatingPlatforms_124
+  - first:
+      213: -1958043672512033519
+    second: Mossy - FloatingPlatforms_125
+  - first:
+      213: 2977511140366961855
+    second: Mossy - FloatingPlatforms_126
+  - first:
+      213: 2803128867653089233
+    second: Mossy - FloatingPlatforms_127
+  - first:
+      213: -7169624770506733016
+    second: Mossy - FloatingPlatforms_128
+  - first:
+      213: -374917316711001158
+    second: Mossy - FloatingPlatforms_129
+  - first:
+      213: -3623444203780076558
+    second: Mossy - FloatingPlatforms_130
+  - first:
+      213: 9061219433948101546
+    second: Mossy - FloatingPlatforms_131
+  - first:
+      213: -4076519106101616191
+    second: Mossy - FloatingPlatforms_132
+  - first:
+      213: -4291064453476130078
+    second: Mossy - FloatingPlatforms_133
+  - first:
+      213: 3056266368727658348
+    second: Mossy - FloatingPlatforms_134
+  - first:
+      213: -7177570565779701578
+    second: Mossy - FloatingPlatforms_135
+  - first:
+      213: -5251698111397282878
+    second: Mossy - FloatingPlatforms_136
+  - first:
+      213: -8235427177316894739
+    second: Mossy - FloatingPlatforms_137
+  - first:
+      213: -7336948141488019435
+    second: Mossy - FloatingPlatforms_138
+  - first:
+      213: -2384988005482411130
+    second: Mossy - FloatingPlatforms_139
+  - first:
+      213: 5627975170918743893
+    second: Mossy - FloatingPlatforms_140
+  - first:
+      213: -2314528519012354995
+    second: Mossy - FloatingPlatforms_141
+  - first:
+      213: -6110980416819903120
+    second: Mossy - FloatingPlatforms_142
+  - first:
+      213: 6352483159608945785
+    second: Mossy - FloatingPlatforms_143
+  - first:
+      213: 1884827911383548911
+    second: Mossy - FloatingPlatforms_144
+  - first:
+      213: 5592685941490552208
+    second: Mossy - FloatingPlatforms_145
+  - first:
+      213: 1339341351854254398
+    second: Mossy - FloatingPlatforms_146
+  - first:
+      213: 8048058360312207070
+    second: Mossy - FloatingPlatforms_147
+  - first:
+      213: -2571447432887647625
+    second: Mossy - FloatingPlatforms_148
+  - first:
+      213: -3309646264591323550
+    second: Mossy - FloatingPlatforms_149
+  - first:
+      213: -860279151906237301
+    second: Mossy - FloatingPlatforms_150
+  - first:
+      213: -4830273338512185745
+    second: Mossy - FloatingPlatforms_151
+  - first:
+      213: -7760056634578909109
+    second: Mossy - FloatingPlatforms_152
+  - first:
+      213: -7940850383519316839
+    second: Mossy - FloatingPlatforms_153
+  - first:
+      213: -804901580752626283
+    second: Mossy - FloatingPlatforms_154
+  - first:
+      213: 9157055074555467350
+    second: Mossy - FloatingPlatforms_155
+  - first:
+      213: -6692725416848431521
+    second: Mossy - FloatingPlatforms_156
+  - first:
+      213: -6573526091103877336
+    second: Mossy - FloatingPlatforms_157
+  - first:
+      213: -2339396163114709497
+    second: Mossy - FloatingPlatforms_158
+  - first:
+      213: -8372361879362802361
+    second: Mossy - FloatingPlatforms_159
+  - first:
+      213: 1605665409268960147
+    second: Mossy - FloatingPlatforms_160
+  - first:
+      213: -6229790218465956704
+    second: Mossy - FloatingPlatforms_161
+  - first:
+      213: 1233372951055493437
+    second: Mossy - FloatingPlatforms_162
+  - first:
+      213: 3464164254663126557
+    second: Mossy - FloatingPlatforms_163
+  - first:
+      213: -1374460425783572214
+    second: Mossy - FloatingPlatforms_164
+  - first:
+      213: -4848180857446498370
+    second: Mossy - FloatingPlatforms_165
+  - first:
+      213: 4057046902353216071
+    second: Mossy - FloatingPlatforms_166
+  - first:
+      213: -4202397846937441812
+    second: Mossy - FloatingPlatforms_167
+  - first:
+      213: -7907058371452491137
+    second: Mossy - FloatingPlatforms_168
+  - first:
+      213: -2417494135861588146
+    second: Mossy - FloatingPlatforms_169
+  - first:
+      213: -1360718584691296524
+    second: Mossy - FloatingPlatforms_170
+  - first:
+      213: -460771358868411090
+    second: Mossy - FloatingPlatforms_171
+  - first:
+      213: 3572666203765732733
+    second: Mossy - FloatingPlatforms_172
+  - first:
+      213: 3976135749796761267
+    second: Mossy - FloatingPlatforms_173
+  - first:
+      213: 6346871343390308988
+    second: Mossy - FloatingPlatforms_174
+  - first:
+      213: 9074728576841212577
+    second: Mossy - FloatingPlatforms_175
+  - first:
+      213: -6524384460983583701
+    second: Mossy - FloatingPlatforms_176
+  - first:
+      213: 8343177350309425985
+    second: Mossy - FloatingPlatforms_177
+  - first:
+      213: -3566259343148629376
+    second: Mossy - FloatingPlatforms_178
+  - first:
+      213: -3212718400506047176
+    second: Mossy - FloatingPlatforms_179
+  - first:
+      213: -3937555940717236287
+    second: Mossy - FloatingPlatforms_180
+  - first:
+      213: 5288099069509349392
+    second: Mossy - FloatingPlatforms_181
+  - first:
+      213: 8232179181266996364
+    second: Mossy - FloatingPlatforms_182
+  - first:
+      213: -3789316603883367400
+    second: Mossy - FloatingPlatforms_183
+  - first:
+      213: 5957404958325777553
+    second: Mossy - FloatingPlatforms_184
+  - first:
+      213: -1668379101774281296
+    second: Mossy - FloatingPlatforms_185
+  - first:
+      213: -5435809921880442473
+    second: Mossy - FloatingPlatforms_186
+  - first:
+      213: -8633985484624033326
+    second: Mossy - FloatingPlatforms_187
+  - first:
+      213: 2554762466156712834
+    second: Mossy - FloatingPlatforms_188
+  - first:
+      213: -6948070121507185577
+    second: Mossy - FloatingPlatforms_189
+  - first:
+      213: 1062764906774872615
+    second: Mossy - FloatingPlatforms_190
+  - first:
+      213: 2165426821900684895
+    second: Mossy - FloatingPlatforms_191
+  - first:
+      213: 1750989961002359519
+    second: Mossy - FloatingPlatforms_192
+  - first:
+      213: -7262228956892092125
+    second: Mossy - FloatingPlatforms_193
+  - first:
+      213: -4313245779557220124
+    second: Mossy - FloatingPlatforms_194
+  - first:
+      213: 6964787573241869177
+    second: Mossy - FloatingPlatforms_195
+  - first:
+      213: -1745912280379331331
+    second: Mossy - FloatingPlatforms_196
+  - first:
+      213: -819193607472675138
+    second: Mossy - FloatingPlatforms_197
+  - first:
+      213: -1723980480202892492
+    second: Mossy - FloatingPlatforms_198
+  - first:
+      213: 1370503612906914829
+    second: Mossy - FloatingPlatforms_199
+  - first:
+      213: 4398128210158323245
+    second: Mossy - FloatingPlatforms_200
+  - first:
+      213: -4117398749243714139
+    second: Mossy - FloatingPlatforms_201
+  - first:
+      213: 4530454267363508779
+    second: Mossy - FloatingPlatforms_202
+  - first:
+      213: 904955818262933867
+    second: Mossy - FloatingPlatforms_203
+  - first:
+      213: -181412592929419729
+    second: Mossy - FloatingPlatforms_204
+  - first:
+      213: -46163768262922338
+    second: Mossy - FloatingPlatforms_205
+  - first:
+      213: 6395835319035490625
+    second: Mossy - FloatingPlatforms_206
+  - first:
+      213: -2694823339370302309
+    second: Mossy - FloatingPlatforms_207
+  - first:
+      213: -8704054034808332359
+    second: Mossy - FloatingPlatforms_208
+  - first:
+      213: 1787821275411791210
+    second: Mossy - FloatingPlatforms_209
+  - first:
+      213: 2638824629572534575
+    second: Mossy - FloatingPlatforms_210
+  - first:
+      213: 6364167752209445581
+    second: Mossy - FloatingPlatforms_211
+  - first:
+      213: -4361276950636676067
+    second: Mossy - FloatingPlatforms_212
+  - first:
+      213: -7896143599307634772
+    second: Mossy - FloatingPlatforms_213
+  - first:
+      213: 2760091446866299871
+    second: Mossy - FloatingPlatforms_214
+  - first:
+      213: 5430270316766202961
+    second: Mossy - FloatingPlatforms_215
+  - first:
+      213: 2182091584313855007
+    second: Mossy - FloatingPlatforms_216
+  - first:
+      213: 8666516384047490842
+    second: Mossy - FloatingPlatforms_217
+  - first:
+      213: -419764611512202196
+    second: Mossy - FloatingPlatforms_218
+  - first:
+      213: 4888914970130893966
+    second: Mossy - FloatingPlatforms_219
+  - first:
+      213: -2093421357587057546
+    second: Mossy - FloatingPlatforms_220
+  - first:
+      213: 4394169495464605259
+    second: Mossy - FloatingPlatforms_221
+  - first:
+      213: 7157570593421853101
+    second: Mossy - FloatingPlatforms_222
+  - first:
+      213: -866325068474939773
+    second: Mossy - FloatingPlatforms_223
+  - first:
+      213: -3510271680165608461
+    second: Mossy - FloatingPlatforms_224
+  - first:
+      213: -2817423441528420522
+    second: Mossy - FloatingPlatforms_225
+  - first:
+      213: -7152067357697116173
+    second: Mossy - FloatingPlatforms_226
+  - first:
+      213: -1115804164459827564
+    second: Mossy - FloatingPlatforms_227
+  - first:
+      213: -4157446457866311363
+    second: Mossy - FloatingPlatforms_228
+  - first:
+      213: -5707688136466724363
+    second: Mossy - FloatingPlatforms_229
+  - first:
+      213: 3024291486368822938
+    second: Mossy - FloatingPlatforms_230
+  - first:
+      213: -9189737246490048317
+    second: Mossy - FloatingPlatforms_231
+  - first:
+      213: -373868393082050127
+    second: Mossy - FloatingPlatforms_232
+  - first:
+      213: -2430868267567637525
+    second: Mossy - FloatingPlatforms_233
+  - first:
+      213: 3079156891083003676
+    second: Mossy - FloatingPlatforms_234
+  - first:
+      213: -3104595479748630599
+    second: Mossy - FloatingPlatforms_235
+  - first:
+      213: -4064643847918224369
+    second: Mossy - FloatingPlatforms_236
+  - first:
+      213: 6162977685647219065
+    second: Mossy - FloatingPlatforms_237
+  - first:
+      213: 2133993241408497111
+    second: Mossy - FloatingPlatforms_238
+  - first:
+      213: -6549630778997983118
+    second: Mossy - FloatingPlatforms_239
+  - first:
+      213: -401035461701622777
+    second: Mossy - FloatingPlatforms_240
+  - first:
+      213: 4348191725658807295
+    second: Mossy - FloatingPlatforms_241
+  - first:
+      213: -3128460440773749854
+    second: Mossy - FloatingPlatforms_242
+  - first:
+      213: 7722285225371539907
+    second: FloatingPlatform_0
+  - first:
+      213: -8012720821829076355
+    second: FloatingPlatform_1
+  - first:
+      213: -1927637273051925026
+    second: FloatingPlatform_2
+  - first:
+      213: 8779033518661836340
+    second: FloatingPlatform_3
+  - first:
+      213: 5324368959399936213
+    second: FloatingPlatform_4
+  - first:
+      213: -567427437364470074
+    second: FloatingPlatform_5
+  - first:
+      213: 794739390429531750
+    second: FloatingPlatform_6
+  - first:
+      213: 2177558029059321020
+    second: FloatingPlatform_7
+  - first:
+      213: 2883784209966349878
+    second: FloatingPlatform_8
+  - first:
+      213: 2121412165432988013
+    second: FloatingPlatform_9
+  - first:
+      213: 5471609372849763805
+    second: FloatingPlatform_10
+  - first:
+      213: -7157522859090137926
+    second: FloatingPlatform_11
+  - first:
+      213: -4680923287779015130
+    second: FloatingPlatform_12
+  - first:
+      213: -7904372475472647735
+    second: FloatingPlatform_13
+  - first:
+      213: 8133840082991096958
+    second: FloatingPlatform_14
+  - first:
+      213: 4769523943680788244
+    second: FloatingPlatform_15
+  - first:
+      213: 2725175970679091600
+    second: FloatingPlatform_16
+  - first:
+      213: -3778462772062480382
+    second: FloatingPlatform_17
+  - first:
+      213: 8667712255123536731
+    second: FloatingPlatform_18
+  - first:
+      213: 4470773068003963203
+    second: FloatingPlatform_19
+  - first:
+      213: -8834360861253006880
+    second: FloatingPlatform_20
+  - first:
+      213: -2487097036226498
+    second: FloatingPlatform_21
+  - first:
+      213: 6651390116394067684
+    second: FloatingPlatform_22
+  - first:
+      213: -8243466198140935707
+    second: FloatingPlatform_23
+  - first:
+      213: -9007501419106707736
+    second: FloatingPlatform_24
+  - first:
+      213: 9089125613193684550
+    second: FloatingPlatform_25
+  - first:
+      213: 1863755965455164935
+    second: FloatingPlatform_26
+  - first:
+      213: -2666162195283739394
+    second: FloatingPlatform_27
+  - first:
+      213: -3172159260842246198
+    second: FloatingPlatform_28
+  - first:
+      213: -4320275549188642680
+    second: FloatingPlatform_29
+  - first:
+      213: -214961999111452484
+    second: FloatingPlatform_30
+  - first:
+      213: -1135178521206470979
+    second: FloatingPlatform_31
+  - first:
+      213: 4893781088160368681
+    second: FloatingPlatform_32
+  - first:
+      213: -194804761084752906
+    second: FloatingPlatform_33
+  - first:
+      213: -7064736460958987397
+    second: FloatingPlatform_34
+  - first:
+      213: -2579325162941983354
+    second: FloatingPlatform_35
+  - first:
+      213: 3103657740456062701
+    second: FloatingPlatform_36
+  - first:
+      213: -3748044349296211407
+    second: FloatingPlatform_37
+  - first:
+      213: -1675057117550060559
+    second: FloatingPlatform_38
+  - first:
+      213: -1085713657118636172
+    second: FloatingPlatform_39
+  - first:
+      213: 997856510685239394
+    second: FloatingPlatform_40
+  - first:
+      213: 3919319110225634850
+    second: FloatingPlatform_41
+  - first:
+      213: -1049288133579632685
+    second: FloatingPlatform_42
+  - first:
+      213: 6205249877927712995
+    second: FloatingPlatform_43
+  - first:
+      213: -6645397557128210075
+    second: FloatingPlatform_44
+  - first:
+      213: 517314208521146043
+    second: FloatingPlatform_45
+  - first:
+      213: 5573731366301509018
+    second: FloatingPlatform_46
+  - first:
+      213: 940717850291711234
+    second: FloatingPlatform_47
+  - first:
+      213: 3637742989278559952
+    second: FloatingPlatform_48
+  - first:
+      213: 6501480798477725994
+    second: FloatingPlatform_49
+  - first:
+      213: 6401149594880161053
+    second: FloatingPlatform_50
+  - first:
+      213: -241540830950220394
+    second: FloatingPlatform_51
+  - first:
+      213: -7778027778631521203
+    second: FloatingPlatform_52
+  - first:
+      213: 179158362165788730
+    second: FloatingPlatform_53
+  - first:
+      213: -553199385199133091
+    second: FloatingPlatform_54
+  - first:
+      213: -4977502572567245059
+    second: FloatingPlatform_55
+  - first:
+      213: -1047003225149744885
+    second: FloatingPlatform_56
+  - first:
+      213: -7864829133068019724
+    second: FloatingPlatform_57
+  - first:
+      213: -2996646723046531859
+    second: FloatingPlatform_58
+  - first:
+      213: 6323441099734598967
+    second: FloatingPlatform_59
+  - first:
+      213: 7883139933088437764
+    second: FloatingPlatform_60
+  - first:
+      213: 1246419774733429339
+    second: FloatingPlatform_61
+  - first:
+      213: 8071188611995870515
+    second: FloatingPlatform_62
+  - first:
+      213: 4224399839346434952
+    second: FloatingPlatform_63
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FloatingPlatform_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c994808f711b2b60800000000000000
+      internalID: 7722285225371539907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a7082add81dc090800000000000000
+      internalID: -8012720821829076355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5ffebfc18af35e0800000000000000
+      internalID: -1927637273051925026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e161fc87465d970800000000000000
+      internalID: 8779033518661836340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d0462edb55f3e940800000000000000
+      internalID: 5324368959399936213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce941880c71028f0800000000000000
+      internalID: -567427437364470074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e009fc34b770b00800000000000000
+      internalID: 794739390429531750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1792
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc61ef7d7d383e10800000000000000
+      internalID: 2177558029059321020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ebce3c572450820800000000000000
+      internalID: 2883784209966349878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6153deef15c07d10800000000000000
+      internalID: 2121412165432988013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_10
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5786a1cbf0feb40800000000000000
+      internalID: 5471609372849763805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_11
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abca130c1ee5bac90800000000000000
+      internalID: -7157522859090137926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626041302150a0fb0800000000000000
+      internalID: -4680923287779015130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_13
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9e31bdc170e4290800000000000000
+      internalID: -7904372475472647735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_14
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74a486e57431e070800000000000000
+      internalID: 8133840082991096958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_15
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1536
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41740dab1c0c03240800000000000000
+      internalID: 4769523943680788244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091f1c25b15c1d520800000000000000
+      internalID: 2725175970679091600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2089d22c024309bc0800000000000000
+      internalID: -3778462772062480382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_18
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b30fd5f56e94870800000000000000
+      internalID: 8667712255123536731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_19
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34172cd0b606b0e30800000000000000
+      internalID: 4470773068003963203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_20
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e986676a9b066580800000000000000
+      internalID: -8834360861253006880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_21
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3042a89ff927fff0800000000000000
+      internalID: -2487097036226498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e6663ef11c7e4c50800000000000000
+      internalID: 6651390116394067684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_23
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1280
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e1aed52b23599d80800000000000000
+      internalID: -8243466198140935707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e65150ee2deef280800000000000000
+      internalID: -9007501419106707736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6466055c69f032e70800000000000000
+      internalID: 9089125613193684550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_26
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70668fc0d246dd910800000000000000
+      internalID: 1863755965455164935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_27
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc798cfb93effad0800000000000000
+      internalID: -2666162195283739394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf388685f93af3d0800000000000000
+      internalID: -3172159260842246198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_29
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8882ece174c4b04c0800000000000000
+      internalID: -4320275549188642680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_30
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb801c2633d440df0800000000000000
+      internalID: -214961999111452484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_31
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1024
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6c5de36290f30f0800000000000000
+      internalID: -1135178521206470979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 928c258a8f33ae340800000000000000
+      internalID: 4893781088160368681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_33
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fb0df61a1aeb4df0800000000000000
+      internalID: -194804761084752906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7b0acc8e9305fd90800000000000000
+      internalID: -7064736460958987397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_35
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685dd9e1e65643cd0800000000000000
+      internalID: -2579325162941983354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_36
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee66446548621b20800000000000000
+      internalID: 3103657740456062701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_37
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a0ac5b5854cfbc0800000000000000
+      internalID: -3748044349296211407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_38
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fb50f92d6001c8e0800000000000000
+      internalID: -1675057117550060559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_39
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47747a36e25cee0f0800000000000000
+      internalID: -1085713657118636172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2685438a53919dd00800000000000000
+      internalID: 997856510685239394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_41
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226266e17f7346630800000000000000
+      internalID: 3919319110225634850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3df04fa700e2071f0800000000000000
+      internalID: -1049288133579632685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8da6c13e97d1650800000000000000
+      internalID: 6205249877927712995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_44
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569df10712ec6c3a0800000000000000
+      internalID: -6645397557128210075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_45
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe4a24288edd2700800000000000000
+      internalID: 517314208521146043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_46
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95aad1952fd95d40800000000000000
+      internalID: 5573731366301509018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_47
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20da18496e91e0d00800000000000000
+      internalID: 940717850291711234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0debd14a9fbdb7230800000000000000
+      internalID: 3637742989278559952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21b9430756e93a50800000000000000
+      internalID: 6501480798477725994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_50
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15b7fc44a375d850800000000000000
+      internalID: 6401149594880161053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d957cd4efd5acf0800000000000000
+      internalID: -241540830950220394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_52
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c2c81f1f4ee0490800000000000000
+      internalID: -7778027778631521203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_53
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30ce67c49f7c7200800000000000000
+      internalID: 179158362165788730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_54
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ebd331714a258f0800000000000000
+      internalID: -553199385199133091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_55
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe498d38cb5ceab0800000000000000
+      internalID: -4977502572567245059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b09d24e2d1c4871f0800000000000000
+      internalID: -1047003225149744885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_57
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f75658b2938ad290800000000000000
+      internalID: -7864829133068019724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_58
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec197baea5c966d0800000000000000
+      internalID: -2996646723046531859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_59
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73549cb5d2061c750800000000000000
+      internalID: 6323441099734598967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_60
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 406de62a00a866d60800000000000000
+      internalID: 7883139933088437764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_61
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a220a6e2c2c4110800000000000000
+      internalID: 1246419774733429339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_62
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3352135974f920070800000000000000
+      internalID: 8071188611995870515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FloatingPlatform_63
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8832675a54510aa30800000000000000
+      internalID: 4224399839346434952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
